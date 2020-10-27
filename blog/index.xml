@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blogs on Hi, I am Marlis! 👋</title>
+        <link>https://marlisschneider.github.io/blog/</link>
+        <description>Recent content in Blogs on Hi, I am Marlis! 👋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://marlisschneider.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Reading Log</title>
+            <link>https://marlisschneider.github.io/blog/post1/</link>
+            <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://marlisschneider.github.io/blog/post1/</guid>
+            <description>0&amp;#37;  Timur Kuran &amp;ndash; Private Truths, Public Lies: The Social Consequences of Preference Falsification
+25&amp;#37;  Reeves Wiedemann &amp;ndash; Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork
+10&amp;#37;  Thomas Lin &amp;ndash; The Prime Number Conspiracy: The Biggest Ideas in Math from Quanta</description>
+            <content type="html"><![CDATA[<p><div class="w3-light-grey w3-round progressbar">
+  <div class="w3-container w3-round w3-blue" style="width:0%">0&#37;</div>
+</div>
+ Timur Kuran &ndash; <a href="https://www.goodreads.com/book/show/1016932.Private_Truths_Public_Lies">Private Truths, Public Lies: The Social Consequences of Preference Falsification</a></p>
+<p><div class="w3-light-grey w3-round progressbar">
+  <div class="w3-container w3-round w3-blue" style="width:25%">25&#37;</div>
+</div>
+  Reeves Wiedemann &ndash; <a href="https://www.goodreads.com/book/show/54502643-billion-dollar-loser">Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork</a></p>
+<p><div class="w3-light-grey w3-round progressbar">
+  <div class="w3-container w3-round w3-blue" style="width:10%">10&#37;</div>
+</div>
+ Thomas Lin &ndash; <a href="https://www.goodreads.com/book/show/39644283-the-prime-number-conspiracy">The Prime Number Conspiracy: The Biggest Ideas in Math from Quanta</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
