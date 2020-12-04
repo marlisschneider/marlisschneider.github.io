@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://marlisschneider.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://marlisschneider.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Reading Log</title>
       <link>https://marlisschneider.github.io/blog/post1/</link>
@@ -50,7 +54,7 @@ Augartenstrasse 84
 68165 Mannheim
 GERMANY
 Email: marlis dot schneider at nhh dot no
-Disclaimer   Accountability for Content  The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&#39; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.</description>
+Disclaimer   Accountability for Content  The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&amp;rsquo; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.</description>
     </item>
     
     <item>
@@ -79,7 +83,7 @@ Disclaimer   Accountability for Content  The contents of our pages have been cre
       <guid>https://marlisschneider.github.io/resources/</guid>
       <description>Resources   Below you find resources (e.g. books, presentations, twitter threads, blog posts etc.) that I came across and which help(ed) me along the way. Maybe they are of interest for you as well-have a look!
 This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
-(Last updated 24/10/2020)
+(Last updated 04/12/2020)
 Finding Research Questions     Stephen Redding &amp;ndash; The Transition to PhD Research</description>
     </item>
     

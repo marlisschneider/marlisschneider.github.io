@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/marlisschneider/Library/Mobile Documents/com~apple~CloudDocs/phd/other/website",
+	"sourceRoot": "/Users/marlis/Library/Mobile Documents/com~apple~CloudDocs/phd/other/website",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
