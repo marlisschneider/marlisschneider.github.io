@@ -1,0 +1,9 @@
+{{ if .IsNamedParams }}
+  {{ with (.Get "style") }}
+    <span class="highlight {{ . }}">
+      {{ $.Get "text" }}
+    </span>
+  {{ end }}
+{{ else }}
+  <span class="highlight">{{ range .Params }} {{ . }} {{ end }}</span>
+{{ end }}

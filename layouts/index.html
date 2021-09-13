@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <main aria-role="main">
+        <div>
+            {{ if .Site.Params.portrait.path }}
+              <div class="circular--landscape">
+                <img src="{{ .Site.Params.portrait.path }}" class="circular--landscape" alt="{{ .Site.Params.portrait.alt }}" />
+              </div>
+            {{ end }}
+
+            <h1>{{ .Site.Title }}</h1>
+            {{- with .Site.Params.homeSubtitle }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}

@@ -1,0 +1,8 @@
+<div id="commentbox" class="commentbox"></div>
+<script>
+  import('/js/commentbox.io/commentBox.min.js')
+    .then((commentbox) => {
+      commentBox('{{ .Site.Params.commentboxProjectId }}');
+    });
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://commentbox.io/">comments powered by commentbox.</a></noscript>
