@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I am Marlis! 👋</title>
+    <link>https://marlisschneider.github.io/</link>
+    <description>Recent content on Hi, I am Marlis! 👋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://marlisschneider.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://marlisschneider.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlisschneider.github.io/about/</guid>
+      <description>About   I am an economics PhD student at NHH Norwegian School of Economics in Bergen, Norway. Previously, I was a predoc at the economics department of the University of Oxford working for Teodora Boneva. Before that, I spent five years at the University of Mannheim where I completed both my bachelor&amp;rsquo;s and master&amp;rsquo;s degree in economics.
+Currently (research agenda work in progress), my interests span children development, education and intergenerational inequality related to these areas.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://marlisschneider.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlisschneider.github.io/contact/</guid>
+      <description>Get in touch I love getting email. I’ve met some of my best friends this way, and a thoughtful message from a new person is always a bright spot in my day. I make a point to respond to every (thoughtful) email I receive.
+I’ve connected to a much broader variety of people this way than I do in daily life, and it’s amazing how much you can learn from someone if you’re open to it.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://marlisschneider.github.io/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlisschneider.github.io/imprint/</guid>
+      <description>Imprint   Contact   Marlis Schneider
+Augartenstrasse 84
+68165 Mannheim
+GERMANY
+Email: marlis dot schneider at nhh dot no
+Disclaimer   Accountability for Content  The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&amp;rsquo; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.</description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://marlisschneider.github.io/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlisschneider.github.io/podcast/</guid>
+      <description>Soon to come.   </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://marlisschneider.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlisschneider.github.io/research/</guid>
+      <description>Research Work in progress </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://marlisschneider.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlisschneider.github.io/resources/</guid>
+      <description>Resources   Below you find resources (e.g. books, presentations, twitter threads, blog posts etc.) that I came across and which help(ed) me along the way. Maybe they are of interest for you as well-have a look!
+This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
+(Last updated 07/01/2020)
+Finding Research Questions     Stephen Redding &amp;ndash; The Transition to PhD Research</description>
+    </item>
+    
+  </channel>
+</rss>
