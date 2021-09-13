@@ -1,0 +1,11 @@
+# Eine .YAML-Datei wird dazu verwendet, DNS-Einträge
+# in eine von Google Cloud verwaltete Domain zu exportieren. Dieses Format wird
+# ausschließlich in Google Cloud-DNS verwendet.
+
+---
+kind: dns#resourceRecordSet
+name: 'www.marlis-schneider.com.'
+rrdatas:
+- 'c.storage.googleapis.com.'
+ttl: 3600
+type: CNAME
