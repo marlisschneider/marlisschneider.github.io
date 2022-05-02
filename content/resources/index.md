@@ -4,11 +4,11 @@ title: Resources
 
 ## {{< highlight style="bold" text="Resources" >}} 
 
-Below you find resources (e.g. books, presentations, twitter threads, blog posts etc.) that I came across and which help(ed) me along the way. Maybe they are of interest for you as well-have a look!  
+Below you find resources (e.g. books, presentations, twitter threads, blog posts etc.) that I came across and which help(ed) me along the way. Maybe they are of interest for you as well: Have a look!  
 
 This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
 
-(Last updated 07/01/2020)
+(Last updated 02/05/2022)
 
 #### {{< highlight style="bold" text="Finding Research Questions" >}} 
 
@@ -64,11 +64,33 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Florian Zettelmeyer -- [Some Pointers for Preparing Presentations](https://are.berkeley.edu/documents/jobmarket/On_presentation.pdf)
 
-#### {{< highlight style="bold" text="Miscellaneous" >}} 
+* Eric Zwick -- [A Graph is Worth a Thousand Citations](http://www.ericzwick.com/public_goods/1000_citations.pdf)
+
+#### {{< highlight style="bold" text="PhD Life" >}} 
+
+* P.J. Healy -- [The Backwards Induction Approach to Grad School... and Other Random Advice](https://healy.econ.ohio-state.edu/papers/PJsAdviceLecture.pdf)
+
+* Gian Carlo Rota --[Ten Lessons I Wish I Had Learned Before I Started Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+
+* Eric Zwick -- [The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
+
+* Ariel Rubinstein -- [10 Q&A: Experienced Advice for “Lost” Graduate Students in Economics](https://arielrubinstein.tau.ac.il/papers/10QA.pdf)
 
 * Philip J. Guo -- [The PhD Grind](https://lijunsun.github.io/files/pguo-PhD-grind.pdf)
 
+* Luke Stein -- [Economics Core Notes](https://github.com/lukestein/steincoresummary)
+
 * Alex Eble Twitter thread -- [Advice and Best Practices for Thriving in a PhD](https://twitter.com/alexeble/status/1019278324680593408?lang=de), find a comprehensive pdf [here](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf)
+
+#### {{< highlight style="bold" text="Books" >}} 
+
+* Marc F. Bellemare -- [Doing Economics: What You Should Have Learned in Grad School–But Didn’t](http://marcfbellemare.com/wordpress/research/doing-economics), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
+
+* Simon Bowmaker -- [The Art and Practice of Economics Research](https://twitter.com/simonbowmaker/status/1299094461419581440)
+
+* Simon Bowmaker -- [The Heart of Teaching Economics](https://twitter.com/SimonBowmaker/status/1371503275246247941), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
+
+#### {{< highlight style="bold" text="Miscellaneous" >}} 
 
 * Kevin H. Wilson Twitter thread -- [Build a Simple Academic Website](https://twitter.com/khayeswilson/status/1156601679745343488)
 
@@ -80,10 +102,6 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Sarah Jacobson -- [Networking with Twitter](https://drive.google.com/file/d/1cUoW_4SUl5u5NUydKZnNH2oPo08kEEP_/view)
 
-* Zong Huang, Pauline Liang \& Dominic Russel -- [Survey of Pre-Doctoral Research Experiences in Economics](https://z-y-huang.github.io/predoc_survey/slides.pdf) and accompanying [Data Appendix](https://z-y-huang.github.io/predoc_survey/data_appendix.pdf)
-
 * [Econ RA Guide](https://raguide.github.io)
 
 * Scarlet Chen -- [My Journey Into Econ PhD](https://scarlet-chen.medium.com/my-journey-into-econ-phd-854cd892547b)
-
-

@@ -51,7 +51,7 @@ target = "static"
 
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/mschneider_econ"
+    url = "https://twitter.com/MarMaSchneider"
 
 [taxonomies]
     category = "blog"
@@ -77,20 +77,12 @@ target = "static"
   [[menu.main]]
     name       = "Resources"
     url        = "/resources"
-    weight     = "2"
+    weight     = "3"
   [[menu.main]]
     name       = "About"
     url        = "/about"
     weight     = "1"
   [[menu.main]]
-      name       = "Blog"
-      url        = "/blog"
-      weight     = "3"
-  [[menu.main]]
-    name       = "More"
-    weight     = "5"
-  [[menu.main]]
-    name       = "Podcast"
-    url        = "/podcast"
-    weight     = "6"
-    parent     = "More"
+      name     = "Blog"
+      url      = "/blog"
+      weight   = "4"

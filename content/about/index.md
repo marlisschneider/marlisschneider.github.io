@@ -8,13 +8,13 @@ title: About
 
 ## {{< highlight style="bold" text="About" >}} 
 
-I am an economics PhD student at [NHH Norwegian School of Economics](https://www.nhh.no/en/) in Bergen, Norway. Previously, I was a predoc at the economics department of the [University of Oxford](https://www.economics.ox.ac.uk) working for [Teodora Boneva](https://sites.google.com/site/bonevateodora/home). Before that, I spent five years at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) where I completed both my bachelor's and master's degree in economics.
+I am a second year PhD candidate at [NHH Norwegian School of Economics](https://www.nhh.no/en/), affiliated with [FAIR-Centre for Experimental Research on Fairness, Inequality and Rationality](https://www.nhh.no/en/research-centres/fair/), under the supervision of [Kjell G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [Alexander W. Cappelen](https://sites.google.com/view/alexander-w-cappelen/home). My fields of interest are education, childhood development, and intergenerational inequality and in my research projects I use applied microeconomic as well as experimental methods. Previously, I was a predoc at the economics department of the [University of Oxford](https://www.economics.ox.ac.uk) working for [Teodora Boneva](https://sites.google.com/site/bonevateodora/home). Before that, I spent five years at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) where I completed both my bachelor's and master's degree in economics.
 
-Currently (research agenda work in progress), my interests span children development, education and intergenerational inequality related to these areas. Furthermore, I am interested in beliefs, social norms and mental models (in these areas and more general) and how these affect behavior and outcomes. I employ methods and tools of applied microeconomics, experimental and behavourial economics to explore and analyze related research questions.
+I am fascinated by the fact that education has a great potential to drive (intergenerational) mobility on an individual and aggregate level while at the same time we observe persistent dimensions of inequalities within education and childhood development, even in the absence of structural barriers such as financial constraints. My work aims to contribute to the understanding what affects these dimensions, particularly the role that behavior and beliefs play within the mentioned research areas and how they translate into outcomes. I consider both behavior and beliefs as important dimensions that often constrain individuals to realize their own full potential. 
 
-Feel free to contact me via [Email](mailto:marlis.schneider@nhh.no) or on [@Twitter](https://twitter.com/mschneider_econ). You can also find me at office E201 at [NHH](https://goo.gl/maps/BtqYpQdX1MDeqBVUA).
+Feel free to contact me via [Email](mailto:marlis.schneider@nhh.no) or on [@Twitter](https://twitter.com/MarMaSchneider). You can also find me at office E201 at [NHH](https://goo.gl/maps/BtqYpQdX1MDeqBVUA).
 
-I write some things {{< internallink "/blog" "here" >}} and collect research-related resources and links I personally find helpful {{< internallink "/resources" "here">}}. In the future, I plan to start a research related {{< internallink "/podcast" "podcast">}}.
+I write some things {{< internallink "/blog" "here" >}} and collect research-related resources and links I personally find helpful {{< internallink "/resources" "here">}}.
 
 ## {{< highlight style="bold" text="Get in Touch" >}} 
 
@@ -38,4 +38,4 @@ An abridged list of questions/topics, research and non-research related, I am cu
 
 <hr class="line">
 
-{{< boxBorder "Garlic" "Cats (as allergic)" "Hot Temperatures" "Voice Messages" "...">}}
+{{< boxBorder "Garlic" "Cats (allergic)" "Hot Temperatures" "Voice Messages" "...">}}
