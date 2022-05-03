@@ -1,9 +1,10 @@
-baseurl      = "https://marlisschneider.github.io"
+baseurl      = "https://marlisschneider.github.io/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 publishDir   = "docs"
+relativeURLs = true
 
 [module]
   [[module.mounts]]
@@ -75,14 +76,18 @@ target = "static"
 
   # And you can even create generic menu
   [[menu.main]]
-    name       = "Resources"
-    url        = "/resources"
-    weight     = "3"
+    name      = "Resources"
+    url       = "/resources"
+    weight    = "3"
   [[menu.main]]
-    name       = "About"
-    url        = "/about"
-    weight     = "1"
+    name      = "About"
+    url       = "/about"
+    weight    = "1"
   [[menu.main]]
-      name     = "Blog"
-      url      = "/blog"
-      weight   = "4"
+    name     = "Blog"
+    url      = "/blog"
+    weight   = "4"
+  [[menu.main]]
+    name     = "Research"
+    url      = "/research"
+    weight   = "2"

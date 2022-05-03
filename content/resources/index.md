@@ -32,11 +32,29 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 #### {{< highlight style="bold" text="Working Applied" >}} 
 
+* [Coder's Corner](https://www.csae.ox.ac.uk/coders-corner)
+
 * Julian Reif -- [Stata Coding Guide](https://reifjulian.github.io/guide/)  
 
 * Matthew Gentzkow \& Jesse M. Shapiro -- [Code and Data for the Social Sciences: A Practitioner’s Guide](https://www.brown.edu/Research/Shapiro/pdfs/CodeAndData.pdf)
 
 * Luke Stein -- [Packages for Generating LaTeX Output from Stata Code](https://lukestein.github.io/stata-latex-workflows/)
+
+* [R for Data Science](https://r4ds.had.co.nz/index.html)
+
+* [Efficient R Programming](https://csgillespie.github.io/efficientR/)
+
+* Oscar Baruffa -- [Big Book of R](https://www.bigbookofr.com/index.html#your-last-ever-bookmark) 
+
+* Florian Oswald, Vincent Viers, Jean-Marc Robin, Pierre Villedieu, Gustave Kenedi -- [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)
+
+* [To R from Stata: An Introduction](https://rslbliss.shinyapps.io/R_from_Stata/)
+
+* [R for Stata Users](https://www.matthieugomez.com/statar/index.html)
+
+* [Stata2R](https://stata2r.github.io/extras/#base)
+
+* Emily Farris -- [Teaching Myself R](https://efarristcu.medium.com/teaching-myself-r-c03c52361bed)
 
 #### {{< highlight style="bold" text="Writing" >}} 
 
@@ -50,7 +68,7 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Marc F. Bellemare -- [How to Publish in Academic Journals](https://marcfbellemare.com/wordpress/wp-content/uploads/2017/06/BellemareAAEAEarlyCareerWorkshop.pdf)
 
-* Plamen Nikolov -- [Writing Tips for Economics Research Papers](https://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
+* Plamen Nikolov -- [Writing Tips for Economics Research Papers](https://docs.iza.org/dp15057.pdf)
 
 #### {{< highlight style="bold" text="Presenting & Public Speaking" >}} 
 
@@ -64,13 +82,15 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Florian Zettelmeyer -- [Some Pointers for Preparing Presentations](https://are.berkeley.edu/documents/jobmarket/On_presentation.pdf)
 
+* Jonathan A. Schwabish -- [An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles?id=10.1257/jep.28.1.209)
+
 * Eric Zwick -- [A Graph is Worth a Thousand Citations](http://www.ericzwick.com/public_goods/1000_citations.pdf)
 
 #### {{< highlight style="bold" text="PhD Life" >}} 
 
 * P.J. Healy -- [The Backwards Induction Approach to Grad School... and Other Random Advice](https://healy.econ.ohio-state.edu/papers/PJsAdviceLecture.pdf)
 
-* Gian Carlo Rota --[Ten Lessons I Wish I Had Learned Before I Started Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
+* Gian-Carlo Rota --[Ten Lessons I Wish I Had Learned Before I Started Teaching Differential Equations](https://web.williams.edu/Mathematics/lg5/Rota.pdf)
 
 * Eric Zwick -- [The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
 
@@ -80,21 +100,29 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Luke Stein -- [Economics Core Notes](https://github.com/lukestein/steincoresummary)
 
+* Paul Goldsmith-Pinkham -- [Applied Empirical Methods Course](https://github.com/paulgp/applied-methods-phd)
+
 * Alex Eble Twitter thread -- [Advice and Best Practices for Thriving in a PhD](https://twitter.com/alexeble/status/1019278324680593408?lang=de), find a comprehensive pdf [here](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf)
 
 #### {{< highlight style="bold" text="Books" >}} 
 
-* Marc F. Bellemare -- [Doing Economics: What You Should Have Learned in Grad School–But Didn’t](http://marcfbellemare.com/wordpress/research/doing-economics), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
+* Marc F. Bellemare -- [Doing Economics: What You Should Have Learned in Grad School–But Didn’t](http://marcfbellemare.com/wordpress/research/doing-economics)
 
-* Simon Bowmaker -- [The Art and Practice of Economics Research](https://twitter.com/simonbowmaker/status/1299094461419581440)
+* Simon Bowmaker -- [The Art and Practice of Economics Research](https://twitter.com/simonbowmaker/status/1299094461419581440), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
 
 * Simon Bowmaker -- [The Heart of Teaching Economics](https://twitter.com/SimonBowmaker/status/1371503275246247941), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
 
 #### {{< highlight style="bold" text="Miscellaneous" >}} 
 
+* Ben Kuhn -- [How to Make Video Calls Almost as Good as Face-to-Face](https://www.benkuhn.net/vc/)
+
+* Alex Hollingsworth -- [Create a Simple and a Free Job Market Website](https://hollina.github.io/make-a-job-market-website.html)
+
 * Kevin H. Wilson Twitter thread -- [Build a Simple Academic Website](https://twitter.com/khayeswilson/status/1156601679745343488)
 
 * Matt Clancy -- [A Beginner’s Guide to #EconTwitter](http://matt-clancy.com/a-beginners-guide-to-econtwitter-preliminary-version/)
+
+* Daniel S. Quintana -- [Twitter for Scientists](https://t4scientists.com)
 
 * [The Holloway Guide to Using Twitter](https://www.holloway.com/g/using-twitter)
 
