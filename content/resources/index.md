@@ -112,13 +112,17 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Simon Bowmaker -- [The Heart of Teaching Economics](https://twitter.com/SimonBowmaker/status/1371503275246247941), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
 
-#### {{< highlight style="bold" text="Miscellaneous" >}} 
+#### {{< highlight style="bold" text="Creating an (Academic) Website" >}} 
 
-* Ben Kuhn -- [How to Make Video Calls Almost as Good as Face-to-Face](https://www.benkuhn.net/vc/)
+* I gave a short presentation how I approached creating my website. You can find the presentation {{< internallink "/resources/website_presentation.pdf" "here." >}}
 
 * Alex Hollingsworth -- [Create a Simple and a Free Job Market Website](https://hollina.github.io/make-a-job-market-website.html)
 
 * Kevin H. Wilson Twitter thread -- [Build a Simple Academic Website](https://twitter.com/khayeswilson/status/1156601679745343488)
+
+#### {{< highlight style="bold" text="Miscellaneous" >}} 
+
+* Ben Kuhn -- [How to Make Video Calls Almost as Good as Face-to-Face](https://www.benkuhn.net/vc/)
 
 * Matt Clancy -- [A Beginner’s Guide to #EconTwitter](http://matt-clancy.com/a-beginners-guide-to-econtwitter-preliminary-version/)
 
