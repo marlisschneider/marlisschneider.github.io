@@ -74,28 +74,33 @@ target = "static"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    name      = "Resources"
-    url       = "/resources"
-    weight    = "3"
   [[menu.main]]
     name      = "About"
     url       = "/about"
     weight    = "1"
   [[menu.main]]
-    name     = "Blog"
-    url      = "/blog"
+    name     = "CV"
+    url      = "/research/cv.pdf"
+    weight   = "2"
+  [[menu.main]]
+    name      = "Resources"
+    url       = "/resources"
+    weight    = "3"
+  [[menu.main]]
+    name     = "More"
     weight   = "4"
   [[menu.main]]
-    name     = "Research"
-    url      = "/research"
-    weight   = "2"
+    name     = "Blog"
+    url      = "/blog"
+    weight   = "5"
+    parent   = "More"
   [[menu.main]]
     name     = "NSiBE"
     url      = "/seminar"
-    weight   = "5"
+    weight   = "6"
+    parent   = "More"
   [[menu.main]]
     name     = "Connecting the Dots"
     url      = "/dots"
-    weight   = "6"
+    weight   = "7"
+    parent   = "More"

@@ -8,7 +8,7 @@ Below you find resources (e.g. books, presentations, twitter threads, blog posts
 
 This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
 
-(Last updated 23/08/2022)
+(Last updated 04/09/2022)
 
 #### {{< highlight style="bold" text="Finding Research Questions" >}} 
 
