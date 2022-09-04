@@ -91,3 +91,11 @@ target = "static"
     name     = "Research"
     url      = "/research"
     weight   = "2"
+  [[menu.main]]
+    name     = "NSiBE"
+    url      = "/seminar"
+    weight   = "5"
+  [[menu.main]]
+    name     = "Connecting the Dots"
+    url      = "/dots"
+    weight   = "6"

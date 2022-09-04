@@ -8,7 +8,7 @@ Below you find resources (e.g. books, presentations, twitter threads, blog posts
 
 This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
 
-(Last updated 02/05/2022)
+(Last updated 23/08/2022)
 
 #### {{< highlight style="bold" text="Finding Research Questions" >}} 
 
@@ -30,11 +30,21 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Hal Varian -- [How to Build an Economic Model in Your Spare Time](http://eceweb1.rutgers.edu/~pompili/index_file/extra/how.pdf)
 
+#### {{< highlight style="bold" text="Experimental Economics" >}} 
+
+* John A. List -- [A Course in Experimental Economics](http://s3.amazonaws.com/fieldexperiments-papers2/papers/00755.pdf)
+
+* Czibor, Jimenez-Gomez and List -- [The Dozen Things Experimental Economists Should Do (More of)](https://bfi.uchicago.edu/wp-content/uploads/BFIWP-2019-01_0.pdf)
+
+* Ludwig/Kling/Mullainathan -- [Mechanism Experiments and Policy Evaluations](https://www.aeaweb.org/articles?id=10.1257/jep.25.3.17)
+
 #### {{< highlight style="bold" text="Working Applied" >}} 
 
 * [Coder's Corner](https://www.csae.ox.ac.uk/coders-corner)
 
 * Julian Reif -- [Stata Coding Guide](https://reifjulian.github.io/guide/)  
+
+* Daniel M. Sullivan -- [Best Practices When Writing Code](https://www.danielmsullivan.com/pages/tutorial_workflow_3bestpractice.html)
 
 * Matthew Gentzkow \& Jesse M. Shapiro -- [Code and Data for the Social Sciences: A Practitioner’s Guide](https://www.brown.edu/Research/Shapiro/pdfs/CodeAndData.pdf)
 
@@ -56,6 +66,8 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Emily Farris -- [Teaching Myself R](https://efarristcu.medium.com/teaching-myself-r-c03c52361bed)
 
+* Asjad Naqvi -- [The Awesome Stata Tips Collection!](https://medium.com/the-stata-guide/the-awesome-stata-tips-collection-6805afdedffa)
+
 #### {{< highlight style="bold" text="Writing" >}} 
 
 * Marc F. Bellemare -- [How to Write Applied Papers in Economics](http://marcfbellemare.com/wordpress/wp-content/uploads/2020/09/BellemareHowToPaperSeptember2020.pdf)
@@ -70,9 +82,19 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Plamen Nikolov -- [Writing Tips for Economics Research Papers](https://docs.iza.org/dp15057.pdf)
 
+* Neale Mahoney -- [Principles for Combining Descriptive and Model-Based Analysis in Applied Microeconomics Research](https://www.aeaweb.org/articles?id=10.1257/jep.36.3.211)
+
 #### {{< highlight style="bold" text="Presenting & Public Speaking" >}} 
 
 * Anne M. Burton and Barton Willage -- [List of Economic Conferences](https://docs.google.com/spreadsheets/d/1MNeXLKiwQA4MK3cZ3Hr1WWXZTReh3rKQU_yfTKnu-hg/edit#gid=1595158205)
+
+* [Conferences for Behavioral and Experimental Economists](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp9Cht-T-NsropS3NhW3E3pC5kMHdSAh7gI2-KONxpXl-NrN5R6yRbeiTuHip5hwBvFHi6tRTlNQ-n/pubhtml)
+
+* [My First Grant: Smaller Funding Opportunities with an Economics Focus](https://docs.google.com/spreadsheets/d/17UlG3Er7MD1EajGIyiiI-adCw77RfWTkFeU9kpp2-zI/edit#gid=0)
+
+* [Journals with Short Paper Options Where Economists Might Publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0)
+
+* [Free lists of Grants and Fellowships Around the World: Graduate Students, Postdocs and Junior Faculty](https://www.nature.com/articles/d41586-020-00599-z)
 
 * Rachael Meager -- [Public Speaking for Academic Economists](http://www.princeton.edu/~reddings/tradephd/public_speaking_for_academic_economists.pdf)
 
@@ -104,6 +126,20 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * Alex Eble Twitter thread -- [Advice and Best Practices for Thriving in a PhD](https://twitter.com/alexeble/status/1019278324680593408?lang=de), find a comprehensive pdf [here](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf)
 
+#### {{< highlight style="bold" text="Knowledge Management and Productivity" >}} 
+
+* Sönke Ahrens -- [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/en/book/show/34507927)
+
+* Cal Newport -- [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work?from_search=true&from_srp=true&qid=8KR2PqyJ3r&rank=1)
+
+* James Clear -- [Atomic Habits: An Easy \& Proven Way to Build Good Habits \& Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits?from_search=true&from_srp=true&qid=RoR4e5dfYd&rank=1)
+
+* Tiago Forte -- [Building a Second Brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain?from_search=true&from_srp=true&qid=Zsa6UG2eDF&rank=1)
+
+* [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+
+* [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management?ck_subscriber_id=1431335884)
+
 #### {{< highlight style="bold" text="Books" >}} 
 
 * Marc F. Bellemare -- [Doing Economics: What You Should Have Learned in Grad School–But Didn’t](http://marcfbellemare.com/wordpress/research/doing-economics)
@@ -111,6 +147,8 @@ This collection is work in progress and will be updated on a continued basis. Re
 * Simon Bowmaker -- [The Art and Practice of Economics Research](https://twitter.com/simonbowmaker/status/1299094461419581440), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
 
 * Simon Bowmaker -- [The Heart of Teaching Economics](https://twitter.com/SimonBowmaker/status/1371503275246247941), all chapters are posted: [Email me](mailto:marlis.schneider@nhh.no) if you do not want to search endlessly on Twitter
+
+* Joseph Henrich -- [The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous](https://weirdpeople.fas.harvard.edu)
 
 #### {{< highlight style="bold" text="Creating an (Academic) Website" >}} 
 
@@ -121,6 +159,8 @@ This collection is work in progress and will be updated on a continued basis. Re
 * Kevin H. Wilson Twitter thread -- [Build a Simple Academic Website](https://twitter.com/khayeswilson/status/1156601679745343488)
 
 #### {{< highlight style="bold" text="Miscellaneous" >}} 
+
+* Sangmin S. Oh -- [Plausibly Exogenous Galore](https://www.notion.so/1a897b8106ca44eeaf31dcd5ae5a61b1?v=ff7dc75862c6427eb4243e91836e077e)
 
 * Ben Kuhn -- [How to Make Video Calls Almost as Good as Face-to-Face](https://www.benkuhn.net/vc/)
 
@@ -137,3 +177,17 @@ This collection is work in progress and will be updated on a continued basis. Re
 * [Econ RA Guide](https://raguide.github.io)
 
 * Scarlet Chen -- [My Journey Into Econ PhD](https://scarlet-chen.medium.com/my-journey-into-econ-phd-854cd892547b)
+
+#### {{< highlight style="bold" text="Podcasts" >}}
+
+* Cal Newport -- [Deep Questions](https://www.calnewport.com/podcast/)
+
+* Ezra Klein -- [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast)
+
+* Dan Quintana/James Heathers -- [Everything Hertz: Methodology, Scientific Life, and Bad Language](https://everythinghertz.com)
+
+* Sebastian Tello-Trillo -- [The Hidden Curriculum](https://anchor.fm/hidden-curriculum)
+
+* Tyler Cowen -- [Conversations with Tyler](https://conversationswithtyler.com)
+
+* Russ Roberts -- [EconTalk](https://www.econtalk.org)
