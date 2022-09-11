@@ -8,7 +8,7 @@ Below you find resources (e.g. books, presentations, twitter threads, blog posts
 
 This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
 
-(Last updated 04/09/2022)
+(Last updated 11/09/2022)
 
 #### {{< highlight style="bold" text="Finding Research Questions" >}} 
 
@@ -31,6 +31,8 @@ This collection is work in progress and will be updated on a continued basis. Re
 * Hal Varian -- [How to Build an Economic Model in Your Spare Time](http://eceweb1.rutgers.edu/~pompili/index_file/extra/how.pdf)
 
 #### {{< highlight style="bold" text="Experimental Economics" >}} 
+
+* Ryan Oprea \& Sevgi Yuksel -- [Experimental Economics](https://www.ryanoprea.com/experimentalphd)
 
 * John A. List -- [A Course in Experimental Economics](http://s3.amazonaws.com/fieldexperiments-papers2/papers/00755.pdf)
 
