@@ -8,7 +8,7 @@ title: About
 
 ## {{< highlight style="bold" text="About" >}} 
 
-I am a third year PhD candidate at the department of economics at [NHH Norwegian School of Economics](https://www.nhh.no/en/) under the supervision of [Alexander W. Cappelen](https://sites.google.com/view/alexander-w-cappelen/home) and affiliated with [FAIR-Centre for Experimental Research on Fairness, Inequality and Rationality](https://www.nhh.no/en/research-centres/fair/). I am a behavioral economist who uses field experiments, lab experiments, and theory to investigate research questions in the areas of education, childhood development and social preferences. In my research, I examine social influences on individual behavior and beliefs as well as their potential consequences for societal outcomes such as intergenerational inequality. Previously, I was a predoc at the economics department of the [University of Oxford](https://www.economics.ox.ac.uk) working for [Teodora Boneva](https://sites.google.com/site/bonevateodora/home). Before that, I spent five years at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) where I completed both my bachelor's and master's degree in economics.
+I am a third year PhD candidate at the department of economics at [NHH Norwegian School of Economics](https://www.nhh.no/en/) under the supervision of [Alexander W. Cappelen](https://sites.google.com/view/alexander-w-cappelen/home) and affiliated with [FAIR-Centre for Experimental Research on Fairness, Inequality and Rationality](https://www.nhh.no/en/research-centres/fair/). My primary research field is behavioral economics and I use experiments (both in the lab and field) to investigate research questions in the areas of education \& human capital accumulation, childhood development and social preferences. In my research, I examine social influences on individual behavior and beliefs as well as their potential consequences for societal outcomes such as intergenerational inequality. Previously, I was a predoc at the economics department of the [University of Oxford](https://www.economics.ox.ac.uk) working for [Teodora Boneva](https://sites.google.com/site/bonevateodora/home). Before that, I spent five years at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) where I completed both my bachelor's and master's degree in economics.
 
 Feel free to contact me via [Email](mailto:marlis.schneider@nhh.no) or on [@Twitter](https://twitter.com/MarMaSchneider). You can also find me at office E201 at [NHH](https://goo.gl/maps/BtqYpQdX1MDeqBVUA).
 
@@ -31,7 +31,7 @@ An abridged list of questions/topics, research and non-research related, I am cu
 
 <hr class="line">
 
-{{< boxBorder "Podcasts" "Twitter" "Reading" "Technology" "Apple" "Football" "Learning New Things" "Dogs" "Roam Research" "Pastries" "Stoicism" "Rain (you have to when living in Bergen)" "Rap" "Board Games" "German Bread" "Coca Cola" "philosophy of science" "...">}}
+{{< boxBorder "Podcasts" "Twitter" "Reading" "Technology" "Apple" "Football" "Learning New Things" "Dogs" "Roam Research" "Pastries" "Stoicism" "Rain (you have to when living in Bergen)" "Rap" "Board Games" "German Bread" "Coca Cola" "Stationary" "Happy Socks" "...">}}
 
 ## {{< highlight style="bold" text="Dislike" >}} 
 

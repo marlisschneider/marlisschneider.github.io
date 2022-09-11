@@ -27,7 +27,7 @@ target = "static"
   additionalCSS = ["/w3.css", "/custom.css"]
 
   # Subtitle for home
-  homeSubtitle = "I am an economics PhD student at NHH Norwegian School of Economics in Bergen, Norway."
+  homeSubtitle = "I am an economics PhD candidate at the Norwegian School of Economics (NHH) in Bergen, Norway."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
