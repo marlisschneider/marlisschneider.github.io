@@ -8,7 +8,7 @@ Below you find resources (e.g. books, presentations, twitter threads, blog posts
 
 This collection is work in progress and will be updated on a continued basis. Resources are listed without a particular order.
 
-(Last updated 11/09/2022)
+(Last updated 29/10/2022)
 
 #### {{< highlight style="bold" text="Finding Research Questions" >}} 
 
@@ -94,7 +94,7 @@ This collection is work in progress and will be updated on a continued basis. Re
 
 * [My First Grant: Smaller Funding Opportunities with an Economics Focus](https://docs.google.com/spreadsheets/d/17UlG3Er7MD1EajGIyiiI-adCw77RfWTkFeU9kpp2-zI/edit#gid=0)
 
-* [Journals with Short Paper Options Where Economists Might Publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0)
+* [Journals with Short Paper Options Where Economists Might Publish](https://docs.google.com/spreadsheets/d/19eOOIIIRitfCOcsFbGHQseiVSg35sNyxATCIcE-G5h0/edit#gid=0) via [Dave Evans](https://twitter.com/DaveEvansPhD/status/1495044833211301891)
 
 * [Free lists of Grants and Fellowships Around the World: Graduate Students, Postdocs and Junior Faculty](https://www.nature.com/articles/d41586-020-00599-z)
 
@@ -109,6 +109,30 @@ This collection is work in progress and will be updated on a continued basis. Re
 * Jonathan A. Schwabish -- [An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles?id=10.1257/jep.28.1.209)
 
 * Eric Zwick -- [A Graph is Worth a Thousand Citations](http://www.ericzwick.com/public_goods/1000_citations.pdf)
+
+#### {{< highlight style="bold" text="Job Market: Collected Wisdom and Tips" >}} 
+
+* [ESA Job Market Candidates Seminar Series](http://esajobmarketseminar.online)
+
+* [European Job Market-Candidate Directory](https://ejme-candidatedirectory.org/candidates)
+
+* Alex Albright -- [So You Want to Go on the Job Market](https://thelittledataset.com/2022/03/21/job-mkt/#jmp) and [accompanying twitter thread](https://twitter.com/AllbriteAllday/status/1506311227563147264)
+
+* Kim Fe Cramer/Kerry Siani -- [Job Market Tips - Slides](https://www.kimfecramer.com/_files/ugd/8bc8ea_bfb347bf384342b58aedba53743da779.pdf)
+
+* Kim Fe Cramer/Kerry Siani  -- [Job Market Tips - Frequently Asked Interview Questions](https://www.kimfecramer.com/_files/ugd/8bc8ea_a5275867bb1647fe807d20b1c6b425f2.pdf)
+
+* Natalia Emanuel -- Job Market Experience twitter threads: [First round interviews](https://twitter.com/NataliaHEmanuel/status/1468596059375083527), [in-person interviews](https://twitter.com/NataliaHEmanuel/status/1480008171796185091) and [remote flyouts](https://twitter.com/NataliaHEmanuel/status/1480009001211469825)
+
+* Chris Blattman -- [Managing the Academic Job Market](https://chrisblattman.com/blog/2022/04/16/managing-the-academic-job-market/)
+
+* World Bank Blogs -- [What is the Profile of Leading Development Economists on the PhD Job Market?](https://blogs.worldbank.org/impactevaluations/what-profile-leading-development-economists-phd-job-market)
+
+* World Bank Blogs -- [A Wrap-Up of Our Job Market Blog Post Series](https://blogs.worldbank.org/impactevaluations/wrap-our-job-market-blog-post-series)
+
+* Jon M. Jachimowicz -- [Job Market Q\&A](https://twitter.com/jonj/status/1417910905191477260)
+
+* Ryan Hill -- [Co-Authoring JMP With Other Grad Student](https://twitter.com/RyanReedHill/status/1382418464170725381)
 
 #### {{< highlight style="bold" text="PhD Life" >}} 
 
