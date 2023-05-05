@@ -34,3 +34,10 @@ sidebar:
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 # adding this avoids it
 github: [metadata]
+
+- scope:
+    path: "" # Matches the root directory
+    type: "posts" # Matches all posts
+  values:
+    tags: [] # Removes the "tags" field from the front matter
+    author: "" # Removes the "author" field from the front matter
