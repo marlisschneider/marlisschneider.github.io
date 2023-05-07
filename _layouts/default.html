@@ -60,7 +60,7 @@
 
       {{ content }}
 
-      {% if page.url == site.baseurl or page.url == site.baseurl | append: "/" %}
+      {% if page.url == site.baseurl or page.url == site.baseurl | append: '/' %}
         <a href="{{ site.baseurl }}/blog" class="back-button">See all news...</a>
       {% endif %}
       
