@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: (Research) resources I collected over the year
 ---
 
 <h1>{{ page.title }}</h1>

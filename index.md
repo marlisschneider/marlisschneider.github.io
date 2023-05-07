@@ -7,7 +7,7 @@ title: "Marlis M. Schneider"
 
 My name is Marlis and I'm a third year economics PhD student at the Norwegian School of Economics [NHH](https://www.nhh.no/en/) and affiliated with [FAIR](https://www.nhh.no/en/research-centres/fair/). I am advised by [Alexander W. Cappelen](https://sites.google.com/view/alexander-w-cappelen/home) and [Kjell G. Salvanes](https://sites.google.com/view/kjellsalvanes/home). Before I started my PhD, I worked as a predoc for [Teodora Boneva](https://sites.google.com/site/bonevateodora/home) at the University of Oxford.
 
-My primary research field is behavioral economics and I use experiments (both in the lab and field) to investigate research questions in the areas of education & human capital accumulation, childhood development and social preferences.
+My primary research field is <span class="highlight">behavioral economics</span> and I use experiments (both in the lab and field) to investigate research questions in the areas of education & human capital accumulation, childhood development and social preferences.
 
 In my research, I examine social influences on individual behavior and beliefs as well as their potential consequences for societal outcomes such as intergenerational inequality.
 

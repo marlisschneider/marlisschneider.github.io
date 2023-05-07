@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stuff I am currently thinking about
+title: Things I'm contemplating right now
 ---
 
 <h1>{{ page.title }}</h1>
