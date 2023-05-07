@@ -8,6 +8,7 @@ gemspec
 
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
+gem "faraday-retry"
 
 # https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 # When running locally, we run into the following error —
