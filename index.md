@@ -31,7 +31,7 @@ I obtained both MS and BS in economics at the [University Mannheim](https://www.
 
 22/05/2023: I will be presenting at the workshop ["Experiments on Social Inequality"](https://rc28paris2023.sciencesconf.org) at Sciences Po in Paris.
 
-01/05/2023: I will be visiting the University of Chicago from September 2023 onwards.
+01/05/2023: I will be visiting the [University of Chicago](https://harris.uchicago.edu) from September 2023 onwards.
 
 {% include home_button.html %}
 
