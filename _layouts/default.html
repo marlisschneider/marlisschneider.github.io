@@ -47,11 +47,11 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
 
           {% include sidebar.html %}
-
+          
         </header>
 
         {% include links-mobile.html %}
-
+        
         <div class="sidebar-footer">
           {%- include footer.html -%}
         </div>
@@ -60,6 +60,10 @@
 
       {{ content }}
 
+      {% if page.url == site.baseurl or page.url == site.baseurl | append: "/" %}
+        <a href="{{ site.baseurl }}/blog" class="back-button">See all news...</a>
+      {% endif %}
+      
       </section>
       <footer>
         {%- include footer.html -%}

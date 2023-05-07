@@ -11,7 +11,7 @@ My primary research field is behavioral economics and I use experiments (both in
 
 In my research, I examine social influences on individual behavior and beliefs as well as their potential consequences for societal outcomes such as intergenerational inequality.
 
-I obtained both MS and BS in Economics at the [University Mannheim](https://www.vwl.uni-mannheim.de/en/).
+I obtained both MS and BS in economics at the [University Mannheim](https://www.vwl.uni-mannheim.de/en/).
 
 ---
 
@@ -26,13 +26,14 @@ I obtained both MS and BS in Economics at the [University Mannheim](https://www.
 **Parental Mobility Beliefs, Parental Investment and Policy Preferences**
 
 ---
+
 ## News
 
-22/05/2023: I will be presenting at the workshop ["Experiments on social inequality"](https://rc28paris2023.sciencesconf.org) at Sciences Po in Paris.
+22/05/2023: I will be presenting at the workshop ["Experiments on Social Inequality"](https://rc28paris2023.sciencesconf.org) at Sciences Po in Paris.
 
 01/05/2023: I will be visiting the University of Chicago from September 2023 onwards.
 
-[...see all news](./news)
+{% include home_button.html %}
 
 ---
 
