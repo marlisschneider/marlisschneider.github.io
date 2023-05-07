@@ -39,6 +39,6 @@ I obtained both MS and BS in economics at the [University Mannheim](https://www.
 
 ## Useful Links
 
-[Some resources I collected over the years](./resources)
+[(Research) resources I collected over the years](./resources)
 
-[Stuff I am pondering at the moment](./current)
+[Things I'm contemplating right now](./current)
