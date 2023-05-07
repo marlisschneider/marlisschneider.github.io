@@ -60,11 +60,6 @@
 
       {{ content }}
 
-      {% if page.url == site.baseurl or page.url == site.baseurl  append: '/' %}
-      <a href="{{ site.baseurl | append: '/news' }}" class="back-button">See all news...</a>
-      {% endif %}
-
-      
       </section>
       <footer>
         {%- include footer.html -%}
