@@ -3,39 +3,81 @@ layout: default
 title: "Marlis M. Schneider"
 ---
 
-## Hello! 👋
+## Hello! 
 
-My name is Marlis and I'm a fourth year economics PhD student at the Norwegian School of Economics [NHH](https://www.nhh.no/en/) and affiliated with [FAIR](https://www.nhh.no/en/research-centres/fair/). 
+I am a fifth year economics PhD student at the Norwegian School of Economics [NHH](https://www.nhh.no/en/) and affiliated with [FAIR](https://www.nhh.no/en/research-centres/fair/). 
 
 My primary research field is **behavioral economics** and I use field, lab, and survey **experiments** to study questions in the economics of education, gender, and information, both with adults and children.
 
----
+<div style="height: 30px;"></div>
 
 ## Work in Progress
 
-**Motivated Parental Beliefs, Gender Stereotypes, and Parental Behavior**
+**Thinking with Their Hearts? Parental Motivated Reasoning**
+<br>
+<span style="font-size: 12px;">Data collection in progress.</span>
+
+**Does Parental Feedback Shape Children's (Over)Confidence?** _(with 
+<a href="https://sites.google.com/site/kaibarron/" target="_blank">Kai Barron</a>, 
+<a href="https://michelacarlana.com" target="_blank">Michela Carlana</a>, 
+<a href="https://sites.google.com/view/odasund/home" target="_blank">Oda Sund</a>)_
+<br>
+<span style="font-size: 12px;">Data collection in progress.</span>
+
+**Parents’ Beliefs in the “American Dream” Affect Parental Investments in Children: Evidence from an Experiment** _(with 
+<a href="https://psychology.northwestern.edu/people/faculty/core/profiles/mesmin-destin.html" target="_blank">Mesmin Destin</a>, 
+<a href="https://ivanalfonsohernandez.com" target="_blank">Ivan A. Hernandez</a>, 
+<a href="https://harris.uchicago.edu/directory/ariel-kalil" target="_blank">Ariel Kalil</a>, 
+<a href="https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan" target="_blank">Rebecca M. Ryan</a>, 
+<a href="https://dmsilverman.com" target="_blank">David Silverman</a>)_
+<br>
+<span style="font-size: 12px;">Data collection completed. Draft in preparation.</span>
 
 **From Whom Do Children Acquire Information and How Does It Impact Learning**
+<span style="font-size: 12px;">Data collection completed. Draft in preparation.</span>
 
-**Does Parental Feedback Shape Children's (Over)Confidence?** _(with [Kai Barron](https://sites.google.com/site/kaibarron/), [Michela Carlana](https://michelacarlana.com), and [Oda Sund](https://sites.google.com/view/odasund/home))_
+<div style="height: 30px;"></div>
 
-**How Learning About Climbing the Ladder Up/Down Changes Parents’ Game Plan: Beliefs, Wallets, and Rulebooks** _(with [Ariel Kalil](https://harris.uchicago.edu/directory/ariel-kalil) and [Rebecca Ryan](https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan))_
+## Publications
 
----
+**Economic Mobility and Parents' Opportunity Hoarding** _(with 
+<a href="https://psychology.northwestern.edu/people/faculty/core/profiles/mesmin-destin.html" target="_blank">Mesmin Destin</a>, 
+<a href="https://ivanalfonsohernandez.com" target="_blank">Ivan A. Hernandez</a>, 
+<a href="https://harris.uchicago.edu/directory/ariel-kalil" target="_blank">Ariel Kalil</a>, 
+<a href="https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan" target="_blank">Rebecca M. Ryan</a>, 
+<a href="https://dmsilverman.com" target="_blank">David Silverman</a>)_
+<br>
+Proceedings of the National Academy of Sciences, 2024
+<!-- Adjusted spacing and alignment -->
+<div style="margin-top: -20px;">
+    <span onclick="toggleAbstract()" class="toggle-abstract" style="display: inline-block; margin-bottom: 0;">▶ Abstract</span>
+    <a href="https://www.pnas.org/doi/10.1073/pnas.2407230121" target="_blank" style="margin-left: 10px; font-size: 12px; cursor: pointer; display: inline-block; text-decoration: none;">Link</a>
+    <div id="abstractText" style="display:none; margin-top: 10px; padding: 15px; background-color: #f9f9f9; border-radius: 10px; border: 1px solid #ccc; font-size: 12px;">
+        <p>Two studies examine how American parents’ beliefs about the economy affect their support for policies and behaviors that give them and their child a “leg up,” even when this comes at the cost of other families’ access to educational and economic opportunities. Counterintuitively, the results show that believing in the American Dream increases affluent parents’ likelihood of engaging in such opportunity hoarding. In other words, affluent parents responded to the possibility that other people would be able to climb the socioeconomic ladder by trying to secure their own children’s future opportunities and limiting those available to less affluent parents and their children. These findings deepen understandings of the factors that contribute to rising economic inequalities.</p>
+    </div>
+</div>
 
-## News
+<div style="height: 10px;"></div>
 
-01/09/2023: I am visiting the [University of Chicago](https://harris.uchicago.edu) and the [Behavioral Insights and Parenting](https://biplab.uchicago.edu) Lab from September 2023 until March 2024.
+<script>
+function toggleAbstract() {
+    var abstract = document.getElementById("abstractText");
+    var toggle = document.querySelector('.toggle-abstract');
+    if (abstract.style.display === "none") {
+        abstract.style.display = "block";
+        toggle.innerHTML = "▼ Abstract";
+    } else {
+        abstract.style.display = "none";
+        toggle.innerHTML = "▶ Abstract";
+    }
+}
+</script>
 
-22/05/2023: I will be presenting at the workshop ["Experiments on Social Inequality"](https://rc28paris2023.sciencesconf.org) at Sciences Po in Paris.
-
-
-{% include home_button.html %}
-
----
-
-## Useful Links
-
-[(Research) resources I collected over the years](./resources)
-
-[Things I'm contemplating right now](./current)
+<style>
+.toggle-abstract {
+    cursor: pointer;
+    user-select: none; /* prevents the text selection cursor */
+    font-size: 12px; /* consistent font size for the abstract toggle */
+    display: inline-block; /* ensures proper alignment */
+}
+</style>
