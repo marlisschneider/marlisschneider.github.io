@@ -3,33 +3,43 @@ layout: default
 title: "Marlis M. Schneider"
 ---
 
-## Hello! 
+## Welcome!
 
 I am a fifth year economics PhD student at the Norwegian School of Economics [NHH](https://www.nhh.no/en/) and affiliated with [FAIR](https://www.nhh.no/en/research-centres/fair/). 
 
-My primary research field is **behavioral economics** and I use field, lab, and survey **experiments** to study questions in the economics of education, gender, and information, both with adults and children.
+My primary research field is **behavioral economics** and I use field, lab, and survey experiments to study questions in the economics of education, gender, and information, both with adults and children.
+
+I hold a bachelor's and master's degree in economics from the University of Mannheim. During the fall and winter quarter 2023/2024, I visited the University of Chicago, hosted by Ariel Kalil.
 
 <div style="height: 30px;"></div>
 
 ## Work in Progress
 
-**Thinking with Their Hearts? Parental Motivated Reasoning**
+**Thinking With Their Hearts? Parental Motivated Belief Updating**
 <br>
 <span style="font-size: 12px;">Data collection in progress.</span>
 
-**Does Parental Feedback Shape Children's (Over)Confidence?** _(with 
+**Does Parental Feedback Shape Children's (Over)Confidence?**
+<br>
+<span  style="font-size: 14px;">
+    with 
 <a href="https://sites.google.com/site/kaibarron/" target="_blank">Kai Barron</a>, 
 <a href="https://michelacarlana.com" target="_blank">Michela Carlana</a>, 
-<a href="https://sites.google.com/view/odasund/home" target="_blank">Oda Sund</a>)_
+<a href="https://sites.google.com/view/odasund/home" target="_blank">Oda Sund</a>
+</span>
 <br>
 <span style="font-size: 12px;">Data collection in progress.</span>
 
-**Parents’ Beliefs in the “American Dream” Affect Parental Investments in Children: Evidence from an Experiment** _(with 
-<a href="https://psychology.northwestern.edu/people/faculty/core/profiles/mesmin-destin.html" target="_blank">Mesmin Destin</a>, 
-<a href="https://ivanalfonsohernandez.com" target="_blank">Ivan A. Hernandez</a>, 
-<a href="https://harris.uchicago.edu/directory/ariel-kalil" target="_blank">Ariel Kalil</a>, 
-<a href="https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan" target="_blank">Rebecca M. Ryan</a>, 
-<a href="https://dmsilverman.com" target="_blank">David Silverman</a>)_
+**Parents’ Beliefs in the “American Dream” Affect Parental Investments in Children: Evidence from an Experiment**
+<br>
+<span  style="font-size: 14px;">
+    with 
+    <a href="https://psychology.northwestern.edu/people/faculty/core/profiles/mesmin-destin.html" target="_blank">Mesmin Destin</a>, 
+    <a href="https://ivanalfonsohernandez.com" target="_blank">Ivan A. Hernandez</a>, 
+    <a href="https://harris.uchicago.edu/directory/ariel-kalil" target="_blank">Ariel Kalil</a>, 
+    <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan" target="_blank">Rebecca M. Ryan</a>, 
+    <a href="https://dmsilverman.com" target="_blank">David Silverman</a>
+</span>
 <br>
 <span style="font-size: 12px;">Data collection completed. Draft in preparation.</span>
 
@@ -40,14 +50,20 @@ My primary research field is **behavioral economics** and I use field, lab, and 
 
 ## Publications
 
-**Economic Mobility and Parents' Opportunity Hoarding** _(with 
-<a href="https://psychology.northwestern.edu/people/faculty/core/profiles/mesmin-destin.html" target="_blank">Mesmin Destin</a>, 
-<a href="https://ivanalfonsohernandez.com" target="_blank">Ivan A. Hernandez</a>, 
-<a href="https://harris.uchicago.edu/directory/ariel-kalil" target="_blank">Ariel Kalil</a>, 
-<a href="https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan" target="_blank">Rebecca M. Ryan</a>, 
-<a href="https://dmsilverman.com" target="_blank">David Silverman</a>)_
+**Economic Mobility and Parents' Opportunity Hoarding**
 <br>
+<span  style="font-size: 14px;">
+    with 
+    <a href="https://psychology.northwestern.edu/people/faculty/core/profiles/mesmin-destin.html" target="_blank">Mesmin Destin</a>, 
+    <a href="https://ivanalfonsohernandez.com" target="_blank">Ivan A. Hernandez</a>, 
+    <a href="https://harris.uchicago.edu/directory/ariel-kalil" target="_blank">Ariel Kalil</a>, 
+    <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014RWL2AAO/rebecca-ryan" target="_blank">Rebecca M. Ryan</a>, 
+    <a href="https://dmsilverman.com" target="_blank">David Silverman</a>
+</span>
+<br>
+<span  style="font-size: 14px;">
 Proceedings of the National Academy of Sciences, 2024
+</span>
 <!-- Adjusted spacing and alignment -->
 <div style="margin-top: -20px;">
     <span onclick="toggleAbstract()" class="toggle-abstract" style="display: inline-block; margin-bottom: 0;">▶ Abstract</span>
