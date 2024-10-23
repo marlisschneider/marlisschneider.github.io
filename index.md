@@ -7,9 +7,11 @@ title: "Marlis M. Schneider"
 
 I am a fifth year economics PhD student at the Norwegian School of Economics [NHH](https://www.nhh.no/en/) and affiliated with [FAIR](https://www.nhh.no/en/research-centres/fair/). 
 
-My primary research field is **behavioral economics** and I use field, lab, and survey experiments to study questions in the economics of education, gender, and information, both with adults and children.
+My primary research field is **behavioral economics** and I use field, lab, and survey experiments to study questions in the economics of education, gender, and information.
 
-I hold a bachelor's and master's degree in economics from the University of Mannheim. During the fall and winter quarter 2023/2024, I visited the University of Chicago, hosted by Ariel Kalil.
+My research agenda is centered around understanding how informational and behavioral barriers affect the decision-making of parents and children.
+
+During the fall and winter quarter 2023/2024, I visited the University of Chicago hosted by Ariel Kalil. I received a bachelor's and master's degree in economics from the University of Mannheim. 
 
 <div style="height: 30px;"></div>
 
@@ -17,7 +19,7 @@ I hold a bachelor's and master's degree in economics from the University of Mann
 
 **Thinking With Their Hearts? Parental Motivated Belief Updating**
 <br>
-<span style="font-size: 12px;">Data collection in progress.</span>
+<span style="font-size: 12px;">_Status: Field data collection in progress._</span>
 
 **Does Parental Feedback Shape Children's (Over)Confidence?**
 <br>
@@ -28,7 +30,7 @@ I hold a bachelor's and master's degree in economics from the University of Mann
 <a href="https://sites.google.com/view/odasund/home" target="_blank">Oda Sund</a>
 </span>
 <br>
-<span style="font-size: 12px;">Data collection in progress.</span>
+<span style="font-size: 12px;">_Status: Field data collection in progress._</span>
 
 **Parents’ Beliefs in the “American Dream” Affect Parental Investments in Children: Evidence from an Experiment**
 <br>
@@ -41,10 +43,10 @@ I hold a bachelor's and master's degree in economics from the University of Mann
     <a href="https://dmsilverman.com" target="_blank">David Silverman</a>
 </span>
 <br>
-<span style="font-size: 12px;">Data collection completed. Draft in preparation.</span>
+<span style="font-size: 12px;">_Status: Data collection completed. Draft in preparation._</span>
 
 **From Whom Do Children Acquire Information and How Does It Impact Learning**
-<span style="font-size: 12px;">Data collection completed. Draft in preparation.</span>
+<span style="font-size: 12px;">_Status: Field data collection completed. Draft in preparation._</span>
 
 <div style="height: 30px;"></div>
 
