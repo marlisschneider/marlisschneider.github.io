@@ -43,10 +43,12 @@ During the fall and winter quarter 2023/2024, I visited the University of Chicag
     <a href="https://dmsilverman.com" target="_blank">David Silverman</a>
 </span>
 <br>
-<span style="font-size: 12px;">_Status: Data collection completed. Draft in preparation._</span>
+<span style="font-size: 12px;">_Status: Data collection complete. Draft in preparation._</span>
+<br>
+<span style="font-size: 12px;">_*Presented at the NBER Economics of Mobility Meeting, Fall 2024*_</span>
 
 **From Whom Do Children Acquire Information and How Does It Impact Learning**
-<span style="font-size: 12px;">_Status: Field data collection completed. Draft in preparation._</span>
+<span style="font-size: 12px;">_Status: Field data collection complete. Draft in preparation._</span>
 
 <div style="height: 30px;"></div>
 
