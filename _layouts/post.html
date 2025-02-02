@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p class="post-meta">Posted {{ page.date | date: "%B %-d, %Y" }}</p>
+
+{% if page.header.teaser %}
+  <img src="{{ page.header.teaser }}" alt="teaser" />
+{% endif %}
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+<a href="{{ site.baseurl }}/blog" class="back-button">Back to all posts</a>
+

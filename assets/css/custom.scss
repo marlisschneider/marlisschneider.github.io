@@ -1,0 +1,21 @@
+---
+---
+
+.back-button {
+  display: inline-block;
+  padding: 4px 8px; // Reduced padding for a more narrow border
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #6b2132;
+  border: 1px solid #6b2132;
+  border-radius: 5px;
+  transition-duration: 0.4s;
+
+  &:hover {
+    background-color: #6b2132;
+    color: #fff;
+  }
+};
