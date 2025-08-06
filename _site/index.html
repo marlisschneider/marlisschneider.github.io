@@ -253,20 +253,6 @@ Proceedings of the National Academy of Sciences, 2024
 
 <div style="height: 10px;"></div>
 
-<script>
-function toggleAbstract() {
-    var abstract = document.getElementById("abstractText");
-    var toggle = document.querySelector('.toggle-abstract');
-    if (abstract.style.display === "none") {
-        abstract.style.display = "block";
-        toggle.innerHTML = "▼ Abstract";
-    } else {
-        abstract.style.display = "none";
-        toggle.innerHTML = "▶ Abstract";
-    }
-}
-</script>
-
 <style>
 .abstract-box {
   display: none;
@@ -284,17 +270,32 @@ function toggleAbstract() {
 }
 </style>
 
+<!-- Initial button with text-variant arrow -->
+<span onclick="toggleAbstract('abs4', this)" 
+      class="toggle-abstract" 
+      style="display:inline-block; margin-bottom:0;">
+  &#9654;&#xfe0e; Abstract
+</span>
+
+<!-- Abstract content -->
+<div id="abs4" class="abstract-box">
+  Your abstract text goes here.
+</div>
+
 <script>
 function toggleAbstract(id, el) {
     var abstract = document.getElementById(id);
     if (abstract.style.display === "none" || abstract.style.display === "") {
         abstract.style.display = "block";
-        el.innerHTML = "&#9660;&#xfe0e; Abstract"; // ▼ text version
+        el.innerHTML = "&#9660;&#xfe0e; Abstract"; // ▼ text variant
     } else {
         abstract.style.display = "none";
-        el.innerHTML = "&#9654;&#xfe0e; Abstract"; // ▶ text version
+        el.innerHTML = "&#9654;&#xfe0e; Abstract"; // ▶ text variant
     }
 }
+</script>
+
+
 </script>
 
       </section>
