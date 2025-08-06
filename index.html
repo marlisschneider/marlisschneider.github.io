@@ -289,10 +289,10 @@ function toggleAbstract(id, el) {
     var abstract = document.getElementById(id);
     if (abstract.style.display === "none" || abstract.style.display === "") {
         abstract.style.display = "block";
-        el.innerHTML = "&#9660; Abstract"; // ▼
+        el.innerHTML = "&#9660;&#xfe0e; Abstract"; // ▼ text version
     } else {
         abstract.style.display = "none";
-        el.innerHTML = "&#9654; Abstract"; // ▶
+        el.innerHTML = "&#9654;&#xfe0e; Abstract"; // ▶ text version
     }
 }
 </script>
