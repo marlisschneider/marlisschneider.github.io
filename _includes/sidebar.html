@@ -1,0 +1,24 @@
+<div class="link-wrapper">
+    <style scoped>
+      ul.link a {
+        color:var(--clr-h1-and-bold);
+        text-decoration:none;
+      }
+
+      ul.link a:hover, a:focus {
+        color: #6b2132 !important;
+      }
+    </style>
+    <ul class="link">
+      {% for platform in site.data.siteSetting.sidebar %}
+      {% if platform.isSVG %}
+      <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+      {% else %}
+      <li><a href="{{ platform.link }}"><i class="{{ platform.icon }}"></i> {{ platform.name }}</a></li>
+      {% endif %}
+      {% if forloop.index == 3 %}
+      <br/>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>

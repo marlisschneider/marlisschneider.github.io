@@ -1,0 +1,432 @@
+@import "fonts";
+@import "rouge-github";
+@import "colors";
+
+.abstract-box {
+  display: none;
+  margin-top: 10px;
+  padding: 15px;
+  background-color: #f7f7f7;
+  border-radius: 10px;
+  border: 1px solid #f7f7f7;
+  font-size: 12px;
+}
+.toggle-abstract {
+  cursor: pointer;
+  font-size: 12px;
+  user-select: none;
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+nav{
+  &.navbar {
+    background-color: #ffffff !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+
+    .navbar-brand{
+      color: #6b2132 !important;
+      font-weight: bold;
+    }
+  }
+}
+
+body {
+  background-color: #fff;
+  padding: 0px 50px 50px;
+  font: 16px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin:0 0 20px;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:32px;
+}
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+  color: #333333;
+}
+
+a {
+  color:#333333;
+  text-decoration:none;
+}
+
+section{
+  a{
+    color: #6b2132 !important;
+  }
+}
+
+a:hover, a:focus {
+}
+
+a small {
+  font-size:11px;
+  color:var(--clr-small-in-a);
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:var(--clr-small-in-a);
+}
+
+// added
+p.link {
+  margin:0 0 4px;
+}
+
+// added
+ul.link {
+  list-style-type: none; /* Remove bullets */
+  margin: 0; /* To remove default bottom margin */ 
+  padding: 0.4px; /* To remove default left padding */
+}
+
+ul.link a {
+  color: #333333 !important;
+}
+
+ul.link li + li {
+  margin-top: 6px;
+}
+
+ul.link:last-child {
+  margin-bottom: 6px;
+}
+
+.wrapper {
+  width:860px;
+  margin: 0 auto;
+}
+
+blockquote {
+  border-left:1px solid var(--clr-splitter-blockquote-and-section);
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color: var(--clr-code-text);
+}
+
+pre {
+  padding:8px 15px;
+  background: var(--clr-code-bg);
+  border-radius:5px;
+  border:1px solid var(--clr-code-border);
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid var(--clr-splitter-blockquote-and-section);
+}
+
+dt {
+  color:var(--clr-table-header-and-dt);
+  font-weight:700;
+}
+
+th {
+  color:var(--clr-table-header-and-dt);
+}
+
+img {
+  max-width:100%;
+}
+
+kbd {
+  background-color: var(--clr-kbd-bg) ;
+  border: 1px solid var(--clr-kbd-border);
+  border-bottom-color: var(--clr-kbd-border-bottom-and-shadow);
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 var(--clr-kbd-border-bottom-and-shadow);
+  color: var(--clr-kbd-text);
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+.sidebar {
+  position: fixed; /* Makes the sidebar fixed relative to the viewport */
+  top: 0;          /* Positions it at the top of the viewport */
+  width: 300px;    /* Set a desired width for the sidebar */
+  height: 100vh;   /* Makes the sidebar span the full viewport height */
+  overflow-y: auto; /* Allows scrolling within the sidebar if content exceeds height */
+  padding: 20px;
+  
+  h1{
+    a{
+      font-size: 28px;
+      font-weight: bold;
+      color: #6b2132 !important;
+    }
+      
+  }
+}
+
+.abstract-box {
+  p{
+    font-size: 14px;
+  }
+}
+
+p{
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.social-media-container{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 25px;
+
+  .social-item{
+      margin-left: 15px;
+      margin-right: 15px;
+      .social-link{
+          text-decoration: none;
+          color: #555555;
+          font-size: 24px;
+          transition: color 0.3s;
+
+          &:hover{
+              color: #333333;
+          }
+      }
+
+  }
+}
+
+.teaching-page{
+  h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+}
+
+// Disables the scrollbar in Firefox
+// HTML-Proofer fails without "@-moz-document url-prefix()"
+// because scrollbar-width is still experimental in Firefox.
+@-moz-document url-prefix() {
+  .sidebar {
+    scrollbar-width: none;
+  }
+}
+
+.sidebar::-webkit-scrollbar {
+  /* Chrome, Safari, Edge */
+  display: none;
+}
+
+strong {
+  font-weight:700;
+}
+
+section {
+  width: 610px;
+  float:right;
+  padding-bottom:30px;
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:var(--clr-splitter-blockquote-and-section);
+  height:1px;
+  width:30%;
+  margin:10px auto 30px;
+}
+
+footer, .sidebar-footer {
+  width:185px;
+  float:left;
+  bottom:30px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+footer {
+  display: none;
+}
+
+.sidebar-footer {
+  flex-basis: content;
+}
+
+@media (min-width: 1200px){
+  .container{
+    max-width: 1000px;
+  }
+}
+
+@media print, screen and (max-width: 960px) {
+
+  body{
+    padding-top: 100px !important;
+  }
+
+  .profile-image{
+    max-width: 350px;
+    height: auto;
+  }
+
+  .sidebar {
+    padding: initial;
+    display: initial;
+    height: initial;
+    overflow: initial;    
+  }
+
+  footer {
+    display: initial;
+  }
+
+  .sidebar-footer {
+    display: none;
+  }
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  .sidebar, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  header {
+    padding-right:320px;
+  }
+
+  section {
+    // border:1px solid var(--clr-splitter-blockquote-and-section);
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+  
+  .link-wrapper {
+    display: none !important;
+  }
+
+  .img-circle {
+    display: none !important;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+}
+
+.link-wrapper-mobile {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 1200px){
+  .sidebar {
+    width: 300px; /* Adjust the width for smaller screens */
+  }
+}
+
+@media print, screen and (min-width: 961px) {
+  .link-wrapper-mobile {
+    display: none !important;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 60px 15px 15px !important;
+  }
+
+   .profile-image{
+    max-width: 100%;
+    height: auto;
+  }
+
+  // header ul {
+  //   width:99%;
+  // }
+
+  // header li, header ul li + li + li {
+  //   width:33%;
+  // }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}
+
