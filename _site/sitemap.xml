@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://marlisschneider.com/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/teaching/</loc>
+<loc>https://marlisschneider.com/teaching/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/pdf/cv_schneider.pdf</loc>
+<loc>https://marlisschneider.com/assets/pdf/cv_schneider.pdf</loc>
 <lastmod>2025-08-11T09:38:04+02:00</lastmod>
 </url>
 </urlset>
