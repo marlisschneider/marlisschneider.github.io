@@ -5,6 +5,8 @@
     {% assign ColorScheme = site.color-scheme %}
 {% endcase %}
 
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
