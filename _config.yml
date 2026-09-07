@@ -1,19 +1,37 @@
 title: Marlis M. Schneider
-url: "https://marlisschneider.com"   # full, with https
-baseurl: ""                           # empty for root domain
-email: 
-description: 
+url: "https://marlisschneider.com"
+baseurl: ""
+lang: en-US
+email: marlis.schneider@dice.hhu.de
+description: "Behavioral economist studying parental beliefs, education, and child development."
+logo: /assets/img/logo.jpeg
 show_downloads: false
 color-scheme: auto
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/img/logo.jpeg
+        alt: Portrait of Marlis M. Schneider
+
+author:
+  name: Marlis M. Schneider
+  job_title: Postdoctoral Researcher in Behavioral Economics
+  affiliation: Düsseldorf Institute for Competition Economics (DICE), Heinrich Heine University Düsseldorf
+  affiliation_url: https://www.dice.hhu.de/en/
+
+social:
+  name: Marlis M. Schneider
+  links:
+    - https://bsky.app/profile/marlisschneider.bsky.social
+    - https://x.com/MarMaSchneider
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
 
-
-
-# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
-# When running locally, we run into the following error —
-# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
-# adding this avoids it
+# Avoid GitHub API lookups during local builds.
 github: [metadata]

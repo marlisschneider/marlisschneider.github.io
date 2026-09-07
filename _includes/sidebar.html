@@ -1,40 +1,33 @@
-<div class="link-wrapper">
-    <style scoped>
-      ul.link a {
-        color:var(--clr-h1-and-bold);
-        text-decoration:none;
-      }
+<nav class="link-wrapper" aria-label="Profile links">
+  <ul class="link-list">
+    {% assign preferred_order = "Email|CV|Teaching" | split: "|" %}
+    {% assign ordered_sidebar = "" | split: "" %}
 
-      ul.link a:hover, a:focus {
-        color: #6b2132 !important;
-      }
-    </style>
-    <ul class="link">
-      {% assign preferred_order = "Email|CV|Teaching" | split: "|" %}
-      {% assign ordered_sidebar = "" | split: "" %}
-
-      {% for platform_name in preferred_order %}
-        {% assign matches = site.data.siteSetting.sidebar | where: "name", platform_name %}
-        {% for platform in matches %}
-          {% assign ordered_sidebar = ordered_sidebar | push: platform %}
-        {% endfor %}
+    {% for platform_name in preferred_order %}
+      {% assign matches = site.data.siteSetting.sidebar | where: "name", platform_name %}
+      {% for platform in matches %}
+        {% assign ordered_sidebar = ordered_sidebar | push: platform %}
       {% endfor %}
+    {% endfor %}
 
-      {% for platform in site.data.siteSetting.sidebar %}
-        {% unless preferred_order contains platform.name %}
-          {% assign ordered_sidebar = ordered_sidebar | push: platform %}
-        {% endunless %}
-      {% endfor %}
+    {% for platform in site.data.siteSetting.sidebar %}
+      {% unless preferred_order contains platform.name %}
+        {% assign ordered_sidebar = ordered_sidebar | push: platform %}
+      {% endunless %}
+    {% endfor %}
 
-      {% for platform in ordered_sidebar %}
-      {% if platform.isSVG %}
-      <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+    {% for platform in ordered_sidebar %}
+      {% if platform.link contains '://' or platform.link contains 'mailto:' %}
+        {% assign platform_url = platform.link %}
       {% else %}
-      <li><a href="{{ platform.link }}"><i class="{{ platform.icon }}"></i> {{ platform.name }}</a></li>
+        {% assign platform_url = platform.link | relative_url %}
       {% endif %}
-      {% if forloop.index == 3 %}
-      <br/>
-      {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
+      <li{% if forloop.index == 4 %} class="social-links-start"{% endif %}>
+        <a href="{{ platform_url }}">
+          {% include icon.html name=platform.icon %}
+          <span>{{ platform.name }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
