@@ -18,6 +18,7 @@
 
 html {
   -webkit-text-size-adjust: 100%;
+  scrollbar-gutter: stable;
 }
 
 body {
@@ -223,6 +224,16 @@ img {
   font: inherit;
   font-size: 12px;
   cursor: pointer;
+}
+
+.toggle-abstract {
+  justify-content: flex-start;
+}
+
+.abstract-arrow {
+  display: inline-block;
+  flex: 0 0 1.25em;
+  width: 1.25em;
 }
 
 .publication-action {

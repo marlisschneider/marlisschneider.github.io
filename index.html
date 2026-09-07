@@ -4,7 +4,7 @@ layout: default
 <h2>Welcome!</h2>
 
 <p>
-I am a postdoctoral researcher in behavioral economics at <a href="https://www.dice.hhu.de/en/" target="_blank" rel="noopener noreferrer">DICE</a> at <a href="https://www.hhu.de/en/" target="_blank" rel="noopener noreferrer">Heinrich Heine University Düsseldorf</a> (since June 2026).
+I am a Postdoctoral Researcher in behavioral economics at <a href="https://www.dice.hhu.de/en/" target="_blank" rel="noopener noreferrer">DICE</a> at <a href="https://www.hhu.de/en/" target="_blank" rel="noopener noreferrer">Heinrich Heine University Düsseldorf</a>.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ I am a postdoctoral researcher in behavioral economics at <a href="https://www.d
 
 <div class="publication-block">
 <div class="publication-actions">
-<button type="button" class="toggle-abstract" data-target="abs1" aria-controls="abs1" aria-expanded="false">&#9654;&#xfe0e; Abstract</button>
+<button type="button" class="toggle-abstract" data-target="abs1" aria-controls="abs1" aria-expanded="false"><span class="abstract-arrow" aria-hidden="true">&#9654;&#xfe0e;</span> Abstract</button>
 <a href="{{ '/assets/pdf/jmp_schneider.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="publication-action">
       {% include icon.html name="external-link" %} Link
 </a>
@@ -37,7 +37,6 @@ I am a postdoctoral researcher in behavioral economics at <a href="https://www.d
 <p>
   <strong>
     Parental Messages and Child’s Confidence
-    <span class="draft-status">(Draft in preparation)</span>
   </strong>
   <br />
   <span class="publication-meta">
@@ -50,7 +49,7 @@ I am a postdoctoral researcher in behavioral economics at <a href="https://www.d
 
 <div class="publication-block">
   <div class="publication-actions">
-  <button type="button" class="toggle-abstract" data-target="abs2" aria-controls="abs2" aria-expanded="false">&#9654;&#xfe0e; Abstract</button>
+  <button type="button" class="toggle-abstract" data-target="abs2" aria-controls="abs2" aria-expanded="false"><span class="abstract-arrow" aria-hidden="true">&#9654;&#xfe0e;</span> Abstract</button>
   </div>
   <div id="abs2" class="abstract-box">
     <p>This paper studies how parents may curate the ego-relevant information children receive about themselves and how this information influences the beliefs and behavior of children. Using a lab-in-the-field experiment with Norwegian seventh-grade students and their parents, we show that parents send messages to their children that are systematically more favorable than parents’ private beliefs. Children incorporate these messages into their self-assessments: receiving a parental message raises their posterior beliefs about their relative performance. This increase in confidence does not, however, affect immediate quiz performance or the domain in which children choose to compete. Parents send slightly more favorable messages when children receive them before rather than after the quiz and are more likely to explain these messages in terms of motivating the child, consistent with anticipated motivational benefits shaping what parents communicate. These findings show that beliefs about ourselves depend not only on how individuals process information, but also on how others curate the information they receive.</p>
@@ -76,7 +75,7 @@ Economics Letters, Volume 267, 2026, 113090.
 
 <div class="publication-block">
   <div class="publication-actions">
-    <button type="button" class="toggle-abstract" data-target="abs3" aria-controls="abs3" aria-expanded="false">&#9654;&#xfe0e; Abstract</button>
+    <button type="button" class="toggle-abstract" data-target="abs3" aria-controls="abs3" aria-expanded="false"><span class="abstract-arrow" aria-hidden="true">&#9654;&#xfe0e;</span> Abstract</button>
   <a href="https://doi.org/10.1016/j.econlet.2026.113090" target="_blank" rel="noopener noreferrer" class="publication-action">
       {% include icon.html name="external-link" %} Link
   </a>
@@ -103,7 +102,7 @@ Proceedings of the National Academy of Sciences, 121(37), e2407230121, 2024.
 
 <div class="publication-block">
   <div class="publication-actions">
-    <button type="button" class="toggle-abstract" data-target="abs4" aria-controls="abs4" aria-expanded="false">&#9654;&#xfe0e; Abstract</button>
+    <button type="button" class="toggle-abstract" data-target="abs4" aria-controls="abs4" aria-expanded="false"><span class="abstract-arrow" aria-hidden="true">&#9654;&#xfe0e;</span> Abstract</button>
   <a href="https://www.pnas.org/doi/10.1073/pnas.2407230121" target="_blank" rel="noopener noreferrer" class="publication-action">
       {% include icon.html name="external-link" %} Link
   </a>
@@ -123,11 +122,11 @@ Proceedings of the National Academy of Sciences, 121(37), e2407230121, 2024.
       if (abstract.style.display === "none" || abstract.style.display === "") {
         abstract.style.display = "block";
         btn.setAttribute("aria-expanded", "true");
-        btn.innerHTML = "&#9660;&#xfe0e; Abstract"; // ▼ text variant
+        btn.querySelector('.abstract-arrow').textContent = "\u25bc\ufe0e";
       } else {
         abstract.style.display = "none";
         btn.setAttribute("aria-expanded", "false");
-        btn.innerHTML = "&#9654;&#xfe0e; Abstract"; // ▶ text variant
+        btn.querySelector('.abstract-arrow').textContent = "\u25b6\ufe0e";
       }
     });
   });
