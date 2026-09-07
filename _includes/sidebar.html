@@ -10,7 +10,23 @@
       }
     </style>
     <ul class="link">
+      {% assign preferred_order = "Email|CV|Teaching" | split: "|" %}
+      {% assign ordered_sidebar = "" | split: "" %}
+
+      {% for platform_name in preferred_order %}
+        {% assign matches = site.data.siteSetting.sidebar | where: "name", platform_name %}
+        {% for platform in matches %}
+          {% assign ordered_sidebar = ordered_sidebar | push: platform %}
+        {% endfor %}
+      {% endfor %}
+
       {% for platform in site.data.siteSetting.sidebar %}
+        {% unless preferred_order contains platform.name %}
+          {% assign ordered_sidebar = ordered_sidebar | push: platform %}
+        {% endunless %}
+      {% endfor %}
+
+      {% for platform in ordered_sidebar %}
       {% if platform.isSVG %}
       <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
       {% else %}
