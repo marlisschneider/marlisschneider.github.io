@@ -261,6 +261,10 @@ img {
   list-style: none;
 }
 
+.teaching-list strong {
+  color: var(--brand);
+}
+
 .teaching-list li + li {
   margin-top: 1em;
 }
