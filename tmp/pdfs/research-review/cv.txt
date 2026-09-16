@@ -1,0 +1,161 @@
+                                                                                                    Last updated: September 2026
+                                  Marlis M. Schneider
+  ) Düsseldorf, Germany        ! marlis.schneider@dice.hhu.de               marlisschneider.com     é Marlis-M-Schneider
+
+
+Research Interests
+Fields: Economics of Education, Behavioral Economics
+Methods: Experimental Economics, Applied Microeconometrics
+
+Current Position and Affiliations
+Postdoctoral Researcher in Behavioral Economics, Düsseldorf Institute for Competition                   Düsseldorf, Germany
+Economics (DICE), Heinrich Heine University Düsseldorf                                                       since Jun 2026
+Affiliate, Behavioral Insights and Parenting Lab (BIP Lab), University of Chicago                               Chicago, USA
+Affiliate, FAIR – The Choice Lab, NHH Norwegian School of Economics                                          Bergen, Norway
+
+Education
+PhD in Economics, NHH Norwegian School of Economics, affiliated with FAIR                                    Bergen, Norway
+   • Dissertation: Essays on Belief Formation in the Family                                                        Sep 2026
+   • Supervisors: Alexander W. Cappelen (primary) and Kjell G. Salvanes (secondary)
+
+   • PhD Committee: Mathias Philip Ekström, Ulf Zölitz, and Silke Anger
+
+
+
+
+Research Stay, Harris School of Public Policy, University of Chicago                                           Chicago, USA
+Hosted by Ariel Kalil                                                                                     Sep 2023–Apr 2024
+MSc in Economics, University of Mannheim                                                                Mannheim, Germany
+                                                                                                                2017–2019
+BSc in Economics, University of Mannheim                                                                Mannheim, Germany
+                                                                                                                2013–2016
+
+Publications
+Economic Mobility Beliefs and Parental Investment: Experimental Evidence, with Mesmin Destin,                            2026
+Ivan A. Hernandez, Ariel Kalil, Rebecca M. Ryan, and David Silverman. Economics Letters, 267, 113090.
+Published Version 0
+Economic Mobility and Parents’ Opportunity Hoarding, with Mesmin Destin, Ivan A. Hernandez, Ariel                        2024
+Kalil, Rebecca M. Ryan, and David Silverman. Proceedings of the National Academy of Sciences of the
+United States of America (PNAS), 121 (37), e2407230121. Published Version 0
+
+
+Working Papers
+Biased Parental Beliefs: Experimental Evidence from Norway. Draft 0
+Parents’ beliefs about their children’s abilities shape parental behavior and decision-making. But do parents process
+information about their children’s abilities objectively or in a biased way? I study this question in a large-scale lab-in-the-
+field experiment with Norwegian elementary school students and their parents (N = 743 parent-child pairs) to examine
+how parents update beliefs when receiving noisy signals about their child’s performance in a cognitive (mathematics)
+or a non-cognitive (prosociality) skill. In mathematics, updating is symmetric, with parents being similarly responsive to
+both positive and negative signals. In prosociality, by contrast, parents update their beliefs more strongly to good signals
+but are significantly less responsive to negative signals. The asymmetry is particularly pronounced when signals are
+framed as reflecting parents’ own traits. Following negative prosocial signals, parents engage in ex-post rationalization:
+they rate their child’s effort and the relevance of the signals as lower. Survey evidence indicates that these domain
+differences stem from two factors: parents are better informed about their child’s performance in mathematics, and
+they view prosociality as more central to their child’s broader life success. Biased belief updating thus emerges when
+information is sparse and outcomes are ego-relevant, with important implications for how feedback is designed and
+delivered in educational contexts.
+
+
+                                                 Marlis M. Schneider – Page 1 of 3
+Parental Messages and Children’s Confidence, with Kai Barron, Michela Carlana, and Oda Sund.
+This paper studies how parents may curate the ego-relevant information children receive about themselves and how
+this information influences the beliefs and behavior of children. Using a lab-in-the-field experiment with Norwegian
+seventh-grade students and their parents, we show that parents send messages to their children that are systematically
+more favorable than parents’ private beliefs. Children incorporate these messages into their self-assessments: receiving
+a parental message raises their posterior beliefs about their relative performance. This increase in confidence does
+not, however, affect immediate quiz performance or the domain in which children choose to compete. Parents send
+slightly more favorable messages when children receive them before rather than after the quiz and are more likely to
+explain these messages in terms of motivating the child, consistent with anticipated motivational benefits shaping what
+parents communicate. These findings show that beliefs about ourselves depend not only on how individuals process
+information, but also on how others curate the information they receive.
+
+References
+Hannah Schildberg-Hörisch 0                                      Kai Barron 0
+Professor of Behavioral and Empirical Economics                  Professor of Managerial Economics
+DICE, Heinrich Heine University Düsseldorf                       ESCP Business School, Berlin Campus
+Email: schildberg-hoerisch@dice.hhu.de                           Email: kbarron@escp.eu
+Phone: +49 211 81-14318                                          Phone: +49 30 25491 432
+Alexander W. Cappelen 0                                          Ariel Kalil 0
+Professor of Economics                                           Daniel Levin Professor
+NHH Norwegian School of Economics                                Harris School of Public Policy, University of Chicago
+Email: alexander.cappelen@nhh.no                                 Email: akalil@uchicago.edu
+Phone: +47 55 95 95 77                                           Phone: +1 773 834 2090
+
+Conferences and Workshops
+Bergen–Berlin Behavioural Economics Workshop; CESifo Area Conference on Economics of                                     2026
+Education (upcoming); 18th Nordic Conference in Behavioral and Experimental Economics
+(upcoming); MPI / ECONtribute Workshop on Human Capital and Education (upcoming)
+FAIR–MPI Workshop in Behavioral Economics; 17th Nordic Conference in Behavioral and                                      2025
+Experimental Economics; Advances with Field Experiments Conference; Narratives,
+Memory and Beliefs Workshop WZB–LMU; 4th Workshop on Field Experiments in
+Economics and Business; Bergen–Berlin Behavioural Economics Workshop; International
+Symposium in Experimental Economics (iSEE), NYU Abu Dhabi
+NBER Economics of Mobility; FAIR–MPI Workshop in Behavioral Economics; Nordic PhD                                        2024
+Workshop in the Economics of Education
+Rohit and Harvanit Kumar Conference on Early Childhood Development; Advances with                                        2023
+Field Experiments Conference; 6th Experiments on Social Inequality Workshop
+HCEO/briq Summer School on Socioeconomic Inequality                                                                      2022
+
+Grants and Funding
+Professor Wilhelm Keilhaus Memorial Fund (2025)                                                                    EUR 2,500
+Funding received for attending academic conferences
+Norges Bank’s Fund for Economic Research (2025)                                                                    EUR 2,200
+Funding received for attending academic conferences
+Professor Wilhelm Keilhaus Memorial Fund (2024)                                                                    EUR 1,300
+Funding received for “Biased Parental Beliefs: Experimental Evidence from Norway”
+Diligentia Foundation for Empirical Research (2024)                                                               EUR 39,000
+Funding received for “Parental Messages and Children’s Confidence”
+Research Council of Norway – Research Stay Abroad Funding (2024)                                                  EUR 22,500
+Funding received for a research stay at the University of Chicago
+Centre for Ethics and Economics (CEE) Grant (2023)                                                                 EUR 2,800
+Funding received for “Biased Parental Beliefs: Experimental Evidence from Norway”
+Professor Wilhelm Keilhaus Memorial Fund (2023)                                                                    EUR 6,000
+Funding to support lab-in-the-field data collection
+
+                                              Marlis M. Schneider – Page 2 of 3
+Teaching Experience
+Experimental Economics, Heinrich Heine University Düsseldorf                                         Spring 2026
+Graduate (Master) Level, Teaching Assistant
+Behavioral Economics, NHH Norwegian School of Economics                                              Spring 2025
+Graduate (Master) Level, Teaching Assistant
+Economics and Psychology, NHH Norwegian School of Economics                                         Autumn 2024
+Undergraduate (Bachelor) Level, Teaching Assistant
+Competitive Strategy, NHH Norwegian School of Economics                                              Spring 2023
+Graduate (Master) Level, Teaching Assistant
+Business Cycle Analysis, NHH Norwegian School of Economics                                            2021–2022
+Graduate (Master) Level, Teaching Assistant
+Long-Term Macroeconomic Analysis, NHH Norwegian School of Economics                                  Spring 2021
+Graduate (Master) Level, Teaching Assistant
+
+Research and Professional Experience
+University Lecturer (50% position), NHH Norwegian School of Economics                             Bergen, Norway
+                                                                                                      2024–2025
+Full-time Research Assistant (Predoc) for Prof. Dr. Teodora Boneva, University of Oxford              Oxford, UK
+                                                                                                      2019–2020
+Research Assistant for Prof. Dr. Sebastian Findeisen, University of Mannheim                  Mannheim, Germany
+                                                                                                      2018–2019
+Research Assistant, Centre for European Economic Research (ZEW)                               Mannheim, Germany
+                                                                                                      2015–2016
+Research Assistant for Prof. Dr. Eckhard Janeba, University of Mannheim                       Mannheim, Germany
+                                                                                                      2014–2015
+
+Professional and Academic Service
+   • Organizing: DICE Research Seminar Autumn/Winter 2026, Heinrich Heine University Düsseldorf (main organizer)
+   • Supervision: Co-supervision of Bachelor and Master Theses at Heinrich Heine University Düsseldorf
+
+
+
+Other Skills
+   • Programming and software: Python, Stata, R, oTree, Qualtrics, LATEX
+   • Languages: German (native), English (fluent), French (basic), Norwegian (basic), Latin
+
+
+
+Personal Information
+   •   Citizenship: German
+
+
+
+
+                                             Marlis M. Schneider – Page 3 of 3
+

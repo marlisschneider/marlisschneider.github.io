@@ -1,0 +1,1877 @@
+         Parents’ Perceptions of Children’s Economic
+            Prospects Affect Parental Investments*
+
+            Rebecca M. Ryan    Ariel Kalil  Marlis M. Schneider
+           Mesmin Destin    David Silverman   Ivan A. Hernandez
+
+                                         November 10, 2025
+
+                              Preliminary draft. Please do not circulate.
+
+                                                  Abstract
+      Individuals are sensitive to cues about economic conditions in ways that affect their be-
+      liefs and behavior. This paper experimentally tests how parents’ perceptions of children’s
+      mobility prospects affect parental investments of time and money in child skill develop-
+      ment. An online experiment involving 997 parents of children aged 5-17 aimed to shift
+      parents’ beliefs regarding the possibility of future upward (downward) economic mobil-
+      ity in U.S. society. We find that parents are responsive to signals about their children’s
+      future economic mobility prospects. Using a novel measure of time investment, parents
+      who are prompted to consider favorable prospects for their children increase their time
+      investments to enhance their children’s skills and report being more willing to pay for re-
+      sources to achieve this aim. These parents also strengthen their beliefs about the returns
+      on parental investments, highlighting a plausible mechanism. Effects on beliefs and be-
+      havior are consistent across parents of varying income and educational levels.
+
+      Keywords: Parenting, inequality, investment, mobility.
+      Classification: Social Sciences, Psychology.
+
+
+
+
+    * Mesmin Destin: Northwestern University; Ivan A . Hernandez: California Polytechnic State University, San
+Luis Obispo, Ariel Kalil: University of Chicago; Rebecca M. Ryan: Georgetown University; Marlis M. Schneider:
+Norwegian School of Economics; David Silverman: Yale University. This research was supported by the Russell
+Sage Foundation’s Presidential Grant (R-2105-32136) to Rebecca M. Ryan, Ariel Kalil, and Mesmin Destin. Corre-
+spondence concerning this article should be addressed to Rebecca Ryan, Department of Psychology, Georgetown
+University, 3700 O St NW, Washington, DC 20057, United States. E-mail: rmr64@georgetown.edu.
+1    Introduction
+People’s perceptions of the economy are powerful predictors of their beliefs about society and
+how they pursue their goals (Stantcheva, 2024; Davidai and Gilovich, 2018). The belief in eco-
+nomic mobility, in particular, has been shown to meaningfully influence attitudes and be-
+havior across a range of domains, including support for redistributive policies (Alesina et al.,
+2018; Hernandez et al., 2025) and academic motivation (Browman et al., 2017, 2019; Destin
+and Williams, 2020; Hernandez et al., 2023). Most research examining this link asks how eco-
+nomic mobility beliefs affect choices people make for themselves. A person’s economic mo-
+bility is determined, however, not only by their own choices but by their access to social and
+economic opportunities, such as education quality, neighborhood characteristics and other
+factors, that hinge on the decisions made by other people (Bergman et al., 2024). Among the
+most consequential choices people make for others are those parents make about the time
+and money they invest in children. Indeed, there is causal evidence that parents’ time and
+money investments in children’s skills affect children’s educational and economic success in
+the short and long term (e.g., Attanasio et al., 2022b; Fiorini and Keane, 2014; Martin et al.,
+2010; Price and Kalil, 2019; Todd and Wolpin, 2007). It is thus important to understand how
+the potential effects of economic mobility beliefs may extend to parents’ choices to invest
+their time and money in ways that influence these key determinants of child outcomes and
+intergenerational mobility as a result.
+     It is particularly important to understand the effects of mobility beliefs on parental in-
+vestments in this historical moment. In the U.S., many adults are pessimistic about the state
+of the American economy. The consumer-sentiment index, which measures people’s overall
+attitude toward the economy, dropped in April 2025 to one of the weakest levels in the past
+decade (Torry, 2025). With respect to mobility, nearly 70% of registered voters in 2025 either
+never believed or no longer believe the “American Dream” – if you “work hard you will get
+ahead” – is attainable, up from 64% a recently as 2023 (WSJ/NORC, 2025). A recent Ipsos Poll
+similarly found that only 27% of U.S. adults believe that “if you work hard you will get ahead,”
+down from 50% in 2010 (ABC News/Ipsos, 2024). Data corroborates this view: climbing the
+economic ladder has become harder in the U.S. for successive generations, and this is espe-
+cially true for people in the lower and middle classes (Chetty et al., 2017). Whether these fears
+will motivate or discourage parents to invest time and money in children’s development could
+have important ramifications for the next generation. The present study investigates this ques-
+tion using an online experiment in which parents’ beliefs in the likelihood of either upward
+or downward mobility are increased and their attitudes and decisions about parental invest-
+ments measured.
+
+
+                                               1
+1.1   Background Literature
+According to economic theory, parents invest time and money in their children’s develop-
+ment because they want their children to succeed economically. The amount of time and
+money parents invest, however, depends on the expected economic returns on their invest-
+ments (Becker, 1991; Becker and Tomes, 1979). Evidence to support this theory in experimen-
+tal work finds that parents invest more when they think their children have more academic
+potential (Dizon-Ross, 2019; Giannola, 2024; Hsin and Felfe, 2014; Hines et al., 2020; Rury and
+Kalil, 2025) and when they think their investments are more important to children’s skill de-
+velopment (Boneva and Rauh, 2018; Cunha et al., 2022), both scenarios in which returns on
+parental investments in terms of children’s later success should be higher. Parents’ beliefs
+about economic mobility should likewise determine the return they expect on investments
+in children because these beliefs reflect their perception of how opportunity is structured in
+society.
+     In one scenario, parents’ expected returns on their investment would be higher if parents
+believe it is relatively difficult to climb the socioeconomic ladder. In this case, parents’ be-
+lief that upward economic mobility is unlikely (and that stagnation or downward mobility is
+likely) would motivate them to invest more time and money in children’s skills to prevent stag-
+nation or downward drift (Higgins, 2012). Descriptive studies of how economic conditions
+shape parental investments align with this pattern. Since the 1970s parents have substantially
+increased the amount of time they spend in developmentally enriching activities with young
+children. Researchers have attributed the phenomenon to rising economic returns to a college
+degree and increasingly competitive elite college admissions (Ramey and Ramey, 2009), sug-
+gesting parents invest more time as the path to upward mobility becomes more competitive
+to climb. Likewise, comparing survey responses about parenting behavior across countries,
+Doepke and Zilibotti (2019) argue that parents adopt more intensive parenting styles when
+economic inequality is higher and the social safety net is weaker because in these contexts the
+stakes of educational attainment, and thus the returns on their investment in their children’s
+attainment, are higher. This interpretation suggests that parents would be more motivated to
+invest time and money in children if they believe downward mobility is likely.
+     On the other hand, parents may have higher expected returns on their investments in chil-
+dren, and thus invest more time and money, if they hold stronger beliefs in the possibility of
+upward economic mobility. In this case, parents’ belief that upward mobility is likely (and that
+downward mobility unlikely) would motivate them to invest more because they have greater
+faith that their investments will manifest in success. Two experimental studies on economic
+mobility beliefs support this hypothesis. Wen and Witteveen (2021) manipulated parents’ mo-
+bility beliefs and found that those induced to believe in a more mobile society expressed more
+
+                                               2
+willingness to pay out-of-pocket for college tuition and more aversion to government spend-
+ing for college. Browman et al. (2017) and Browman et al. (2019) found that experimentally
+increasing youths’ beliefs in economic mobility led to greater time investments in their own
+academic futures. Although both suggest parents will be more motivated by optimism about
+upward mobility than fears of downward mobility, neither clearly adjudicates between these
+hypotheses. Wen and Witteveen (2021) narrowly focused on parents’ financial investment
+in children’s college education, a single monetary investment late in children’s development,
+leaving open the possibility that parents’ broader investment strategy in children’s develop-
+ment follows a different pattern. Browman and colleagues manipulated the beliefs of high
+school and college students and measured investments in themselves, which may or may not
+reflect the way parents make decisions about children. Finally, both studies asked subjects
+about their intention to invest money and time, and intentions may not predict actual invest-
+ment behavior. The present study uses behavioral measures of investment to begin under-
+standing how economic optimism versus pessimism shapes parenting. This distinction be-
+tween motivation hinging on pessimism or optimism aligns with the distinction articulated
+in regulatory focus theory, in which prevention-focused approaches to decision-making cen-
+ter on avoiding losses whereas promotion-focused approaches center on pursuing positive
+outcomes (Higgins, 2012).
+     An equally important question is whether the effect of mobility beliefs on parental invest-
+ments depends on where in the socioeconomic distribution parents reside. It is possible that
+belief in upward mobility, for instance, will affect parents of lower socioeconomic status (SES)
+more than socioeconomically advantaged parents because their children stand to gain rela-
+tively more from upward mobility. Indeed, Browman et al. found that shifting youths’ belief
+in upward mobility only influenced the investment patterns of low SES youth, not of high SES
+youth. In the Wen and Witteveen study, however, socioeconomically advantaged parents re-
+sponded more strongly to increased beliefs in social mobility than lower SES parents. The-
+oretical literature on this question supports both hypotheses. Agostinelli et al. (2025) posit
+that low-income parents will be more motivated to invest in children’s skills and develop chil-
+dren’s work ethic in an economically mobile, versus a fixed, society because an economically
+mobile society provides a greater opportunity for socioeconomically disadvantaged children’s
+talents and hard work to yield high economic returns. In turn, because the effort made by high-
+income children consistently pays off, the state of economic mobility is less likely to influence
+the investments of high-income parents. The work of Boneva and Rauh (2018) and Cunha
+et al. (2022), however, suggests that high SES parents may be more influenced by mobility be-
+liefs than low SES parents. These studies find that high SES parents believe their investments
+affect children’s skill development more than low SES parents and thus view their investments
+
+
+                                               3
+as more productive; parents who believe their investments are more productive may respond
+more strongly to a belief in socioeconomic mobility because they are more likely to perceive
+the link between their investments and children’s ability to take advantage of that mobility.
+It is thus an open question as to whether and how SES could moderate the effect of mobility
+beliefs on parental investments. Answering this question could not only illuminate the deter-
+minants of parenting behavior, but also a plausible contributing mechanism through which
+socioeconomic status persists across generations.
+
+
+1.2    Study Overview
+The present study tests these competing hypotheses by experimentally manipulating parents’
+socioeconomic mobility beliefs using factual messages about economic mobility in the U.S
+framed in terms of either the likelihood of upward or downward mobility. The upward mo-
+bility condition is designed to increase parents’ belief in possibility of their child’s upward
+economic mobility by adulthood (and decrease their belief in the possibility of downward mo-
+bility), whereas the downward condition is designed to increase parents’ belief in possibility of
+downward mobility (and decrease their belief in upward). We compared these two conditions
+only, rather than including a passive control group, based on pilot evidence. In a preliminary
+study with 101 parents, the downward mobility and passive control conditions produced sim-
+ilar responses for our measure of perceived social mobility (see Appendix A for details on the
+pilot study and its results). Moreover, the literature on how framing of economic information
+can affect decision making suggests a strong contrast in framing, versus simply cueing par-
+ents to consider economic mobility generally, would yield a conceptually clearer effect of the
+belief in upward mobility (Shen and Hirshman, 2023; Sides, 2016; Sussman and Olivola, 2011;
+Sussman and White, 2018).
+     This experimental paradigm allows us to establish a causal link not just between parents’
+mobility beliefs and their expected returns on time and money investments, but also the ef-
+fect of mobility beliefs on observed parenting behavior. Specifically, we elicit parents revealed
+choices regarding both time and money investments in children by offering them to access to a
+website tailored to their children’s educational needs in exchange for time spent on a short sur-
+vey and by asking them how much they would be willing to pay for an educational newsletter
+designed to help their child succeed academically. Prior studies on parental beliefs typically
+elicit parents’ subjective expectations using hypothetical scenarios in which investments are
+exogenously varied (e.g., Boneva and Rauh, 2018; Attanasio et al., 2022a; Cunha et al., 2022;
+Attanasio et al., 2019; Kiessling, 2021; Cunha et al., 2022). The elicited beliefs have been shown
+to predict parents’ self-reported investment decisions for their own children. However, self-
+
+
+                                                4
+reported investment behavior may not accurately reflect how parents actually behave and ex-
+periments that directly examine parents’ beliefs about their own child—and how these beliefs
+influence actual behavior—are scarce and mostly limited to field settings (Dizon-Ross, 2019;
+Attanasio et al., 2019; Barrera-Osorio et al., 2020). By using an online experiment to link par-
+ents’ perceptions of economic mobility to their investment beliefs and revealed behavior, we
+can demonstrate how mobility beliefs may affect actual parenting decisions in the short-term
+that may also reflect processes with long term implications.
+    Finally, we examine how belief in upward economic mobility may affect low and high SES
+parents differently. By testing to see if an increased belief in upward mobility (versus down-
+ward) has stronger (or weaker) effects on the time and money investments of low versus high
+SES parents, we can determine which societal groups may be most affected by the declining
+faith in American Dream now documented across multiple national surveys. If low SES par-
+ents in particular are more sensitive to messages about mobility than high SES parents, this
+current pessimism could have larger implications for socioeconomically disadvantaged chil-
+dren, thus contributing to widening inequality in turn.
+
+
+2    Results
+The sample comprises 997 U.S. resident parents, drawn evenly from each of five income quin-
+tiles, who participated in an online survey on Prolific Academic, with random assignment to
+an upward or downward mobility treatment. In each condition, participants were shown a
+1-minute video utilizing real-world data from the U.S. Census Bureau and the Brookings In-
+stitution to describe trends indicating that more than 78 million Americans would experience
+upward (or downward) mobility and that half of children may earn more (or less) money than
+their parents when they grow up. See Appendix C1 for detailed descriptions of the experimen-
+tal conditions.
+
+Mean Treatment Effects. Parents in the upward mobility condition report higher perceived
+economic mobility than those in the downward condition (mean = 4.06 vs. 3.84, difference =
+0.22, 𝑝 < 0.001). Moreover, the treatment conditions significantly influenced both overall and
+child-specific perceptions of mobility. Participants in the upward condition were more likely
+to believe that upward mobility is possible overall (mean = 5.88 vs. 5.54, difference = 0.34, 𝑝
+< 0.001) and that their child specifically would experience upward mobility (mean = 5.88 vs.
+5.04, difference = 0.84, 𝑝 < 0.001). Conversely, those in the downward condition reported a
+higher likelihood of downward mobility overall (6.01 vs. 5.66, difference = 0.35, 𝑝 < 0.001) and
+a higher likelihood that their child will experience downward mobility (4.15 vs. 3.07, differ-
+
+                                               5
+ence = 1.08, 𝑝 < 0.001). These findings validate our treatment manipulation, allowing us to
+examine how perceptions of mobility influence parental investment.
+
+Indeed, not only did the manipulation affect parents’ perceptions of mobility, it also altered
+their beliefs and behaviors. The upward condition increases parents’ perceived returns on
+both monetary and time investments (ROI) when asked how their child would fare economi-
+cally later on if they were to invest specific amounts of time and money in them. Specifically,
+parents expected that the return on an investment of $100 in their child’s development would
+lead them to be significantly better off economically in the upward compared to the down-
+ward condition (i.e., a mean of 7.13 compared to 6.64 on a 10-point scale where 1 indicates
+“Much worse economically than me” and 10 indicates “Much better economically than me”).
+For $1000, the returns are 8.38 for parents in the upward group versus 7.97 (difference = 0.41,
+𝑝 < 0.001) for parents in the downward group. Results for time investments show similar pat-
+terns. A 10-minute time investment yields 7.42 in economic ROI for the upward group versus
+6.91 for the downward group (difference = 0.51, 𝑝 < 0.001), and a 50-minute time investment
+yields 8.71 in the upward group versus 8.20 in the downward group (difference = 0.51, 𝑝 <
+0.001). These differences equal about half a Likert scale point or approximately a quarter of a
+standard deviation. In sum, parents in the upward condition consistently expect their child
+to achieve better economic outcomes from their money and time investments.
+
+Results for measures of parent behavior reflect these differences in beliefs. To measure time in-
+vestment, parents were offered access to a website with evidence-based parenting resources if
+they completed a questionnaire about their family and child. This task provides two measures
+of time investment, both whether parents chose to complete the survey (opt-in, an extensive
+margin) and how much time they spent completing the survey conditional on their opting in
+(length, an intensive margin). While both conditions showed identical opt-in rates (64%) for
+investing time in a questionnaire, parents in the upward condition spent 16% more time on
+the questionnaire than those in the downward condition (𝑝 < 0.001). Our measures of mon-
+etary investment showed similar effects by condition. Parents in the upward condition also
+reported being willing to pay 12% more for a separate educational newsletter than those in the
+downward condition. Notably, this difference did not appear in parents’ willingness to pay
+for non-educational streaming services, where we expect no treatment effect, as it serves as
+a placebo. The upward condition thus motivates parents to spend more on goods that would
+allow their children to compete in a mobile society, rather than simply motivating parents to
+purchase more of any good for their children.
+
+
+
+                                               6
+Regression Analyses. Regression analyses support the results for mean treatment effects.
+In the full sample (see Table 4) the upward mobility treatment significantly enhances parents’
+beliefs regarding the returns on both monetary and time investments. For instance, a $100
+investment’s ROI is 0.26 standard deviations higher (𝑝 < 0.001), and a 10‐minute investment’s
+ROI is 0.29 standard deviations higher in the upward condition compared to the downward
+condition. Behavioral outcomes exhibit a similar directional pattern—with greater time spent
+on the questionnaire (𝛽 = 0.27, 𝑝 < 0.01) and a significant increase in willingness-to-pay (WTP)
+for the educational newsletter (𝛽 = 0.17, 𝑝 < 0.01). These findings resonate with earlier research
+on information provision experiments (Haaland et al., 2023). Results (see Table B1.1) remain
+robust even after adjusting for multiple hypothesis testing using the Romano-Wolf stepdown
+procedure, which controls the familywise error rate while accounting for dependence among
+test statistics, and after dropping participants with extreme survey times in sensitivity analy-
+ses (see Robustness section below).
+
+Parental Education Subgroup Analyses. The results from the main analysis hold within
+both subsamples segmented by parents’ educational attainment. Post-hoc Chow tests assess-
+ing differences in each outcome between parents with a bachelor’s degree or higher and those
+with lower educational backgrounds reveal no statistically significant differences in treatment
+effects (all 𝑝 > 0.19). The only exceptions are the behavioral measures of monetary investment,
+where willingness to pay (WTP) for both the newsletter and the placebo good—the streaming
+service— differs significantly between the two groups both in OLS regression models and sup-
+plementary ordered logit models. Overall, these findings suggest that parent education does
+not systematically moderate treatment effects, but may moderate effects on WTP for goods.
+
+Parental Income Subgroup Analyses. Similarly, when splitting the sample above and below
+the median for annual reported household income, we find no statistically significant differ-
+ences in the treatment effects between the high- and low-income groups, and the results from
+the main analysis remain valid. As with education subgroup models, we cannot conclude that
+effects on parental belief or behavior differ by household income.
+
+Robustness. Table B1.2 provides evidence that survey time outliers do not drive our main
+findings. In the models presented in Table B1.3 and Table B1.4, which exclude respondents
+with extreme survey durations (i.e., those in the bottom or top 5% of completion time), the es-
+timated treatment effects on both beliefs and behavioral outcomes remain statistically signif-
+icant and similar in magnitude to our main results. This consistency indicates that unusually
+short or long survey completion times do not bias our estimates. Importantly, the robustness
+
+
+                                                7
+of our findings extends beyond survey duration. At two points in the survey, we included at-
+tention check questions designed to assess whether participants were carefully reading the
+instructions. These checks required respondents to select a specific answer, as indicated in
+the question text. In our sample, 95% of participants passed both attention checks, indicat-
+ing a high level of attentiveness overall. In additional analyses, we also exclude individuals
+who failed at least one of the two attention checks embedded in the survey. The results re-
+main consistent in terms of statistical significance and effect size, suggesting that inattentive
+respondents do not drive our conclusions.
+
+
+3    Discussion
+The present study is among the first to establish the causal effect of shifting parental beliefs
+about economic mobility on parents’ beliefs and behaviors relevant to child skill develop-
+ment. First, we demonstrate that parents’ beliefs about economic mobility are responsive
+to whether economic information optimistically stresses upward mobility or pessimistically
+stresses downward mobility. Second, we establish that optimism about upward mobility moti-
+vates greater parental time and money investments than pessimism about downward mobility.
+The effectiveness of our treatment aligns with experimental work finding that media stories
+about upward mobility (e.g., “rags to riches” shows) causally increase viewers’ perceptions of
+the likelihood of upward mobility (Kim, 2023). Our findings suggest a possible mechanism
+underlying these effects: parents perceive the return on their time and money investments as
+higher when they think upward mobility is more feasible. These findings align with the only
+other experimental evidence that mobility beliefs affect parents’ investments (Wen and Wit-
+teveen, 2021) and support the longstanding idea that economic conditions shape parenting
+behavior (Doepke and Zilibotti, 2019; Kohn, 1969; Becker, 1991; Lareau, 2003; Lynd and Lynd,
+1929; Weininger and Lareau, 2009). Using novel behavioral measures, our study supports this
+idea more strongly than prior similar studies by demonstrating that mobility perceptions may
+alter parents’ actual investment behavior in addition to their stated willingness to invest time
+and money in children’s skills.
+     Our results challenge us to consider the psychological processes that drive parents to in-
+vest more in their children when they strongly believe in upward mobility. In this study, par-
+ents invest more in their own children when they hold stronger beliefs about upward mobil-
+ity regardless of education or income level. In a related study using the same experimental
+data (Silverman et al., 2024), however, high-SES parents who held stronger upward mobility
+beliefs reduced their support for redistributive policies to more socioeconomically disadvan-
+taged children—a pattern also found in other countries (Alesina et al., 2018). Thus, believing in
+
+                                               8
+upward mobility makes parents more likely to invest in their own children’s future, which can
+foster intergenerational mobility, but also encourages behavior that negatively impacts other,
+more socioeconomically disadvantaged children, which could depress intergenerational mo-
+bility.
+     How might these two phenomena coexist? A belief in upward mobility may make par-
+ents more competitive on their children’s behalf if it cues them to view children’s futures as
+a “race to the top” (Ramey and Ramey, 2009; Reeves, 2017). Another possibility is that be-
+lief in upward mobility reinforces parents’ meritocratic beliefs, which hold that anyone can
+rise through effort and hard work (i.e., the “American Dream”). In both scenarios, belief in
+upward mobility can simultaneously motivate investment in one’s own child while dampen-
+ing support for efforts to promote the mobility of other people’s children—particularly those
+who are more economically disadvantaged than oneself. Future research should investigate
+whether a belief in society as fundamentally competitive or relatively fair (Almås et al., 2023;
+Cappelen et al., 2025) underlies the investment behavior we observed. Our findings suggest at
+minimum that parents’ investment motivation hinges on optimism about children’s chances
+for positive outcomes in society rather than on prevention-focused approaches that center
+on avoiding losses (Higgins, 2012). In economic terms, parents appear to view their efforts as
+complements to, rather than substitutes for, the opportunities they perceive the world to offer
+their children.
+
+
+3.1   Limitations
+With regard to the consistency of our findings across parent income and education, we caution
+that the Prolific Academic sample we used over-represented white, college-educated parents
+and lacked racial and ethnic diversity relative to the U.S. population. Thus, even though our
+sampling strategy ensured that parents from each income quintile were equally represented
+(see Appendix A1 for details on sampling), low-income parents with higher education levels
+may respond differently to economic messages than low-income parents with low education
+levels, suggesting our findings may not generalize to parents nationally. The lack of racial and
+ethnic diversity also represents a significant limitation, as children from different racial and
+ethnic backgrounds in the U.S. experience varying mobility rates (Chetty et al., 2017). These
+limitations should be addressed in future research.
+     A key question is whether our manipulation encouraged parents to view economic mo-
+bility in relative or absolute terms. The treatment included a visual of an economic “ladder,”
+which implies relative mobility from the bottom to the top (or vice versa); however, parents
+were also told that children have either a greater or lesser chance of “earning more” than their
+
+
+                                               9
+parents when they grow up. We chose this operationalization on the assumption that parents
+often think about economic mobility as a single, overarching construct and may not distin-
+guish between multiple nuanced definitions of mobility. Future studies should clarify these
+interpretations by identifying more specifically how parents perceived the information, their
+emotional response, and how they made their investment decisions after the treatment.
+    Another limitation is that by contrasting optimistic and pessimistic messages, without a
+passive control group, our manipulation does not distinguish the relative effects of the positive
+and negative signals on parents’ beliefs and behavior. Our manipulation aimed to capture the
+strongest contrasts from our pilot experiment while allowing us to retain statistical power to
+examine moderation by income and education (see Appendix for details on the pilot study
+and our treatment selection). Future studies should include a passive control group to better
+identify differences in how parents alter their beliefs and behavior in response to positive or
+negative messages.
+
+
+3.2    Conclusion
+The findings of this paper may help us understand parents’ decisions regarding child invest-
+ments today. National polls indicate that Americans are losing faith in the possibility of up-
+ward mobility for the next generation (AP/NORC, 2022; WSJ/NORC, 2025). According to our
+findings, pessimism about economic mobility prospects leads parents to estimate lower re-
+turns on their investments and invest less in their children’s enrichment. Current beliefs about
+the economy could therefore jeopardize children’s educational futures by inducing parents to
+underinvest in activities that may enhance children’s skills, like reading with children, helping
+them with homework, or preparing them for standardized tests. Although income inequality
+has increased (Atkinson et al., 2011) and absolute economic mobility has declined since the
+mid-20th century (Chetty et al., 2017), unemployment rates are historically low (U.S. Bureau
+of Labor Statistics, 2025), and the economic returns to a college degree remain high (Mountjoy,
+2024). These economic facts suggest a potential discrepancy between parents’ economic per-
+ceptions and the value of their investment in children’s skills. This mismatch could undermine
+parents’ motivation to invest in their children when those investments may be more impor-
+tant than ever. It is important to note, however, that parents from all economic backgrounds
+in the U.S. have been increasing their time and money investments in children for decades
+(Kalil et al., 2012). It is unclear, therefore, whether a modest decrease in parental investment
+reflecting a fleeting moment of economic pessimism would affect the average child. If par-
+ents hold sustained negative beliefs, however, our results indicate it could have meaningful
+implications for children who are more vulnerable to a lack of parental investment.
+
+
+                                               10
+4   Tables
+
+                                        Table 1: Demographics
+
+
+        Variable                                                        Percentage / Value
+        Measures of Parents’ Socioeconomic Status
+        Parent completed at least a bachelor’s degree                          52%
+        Other parent/guardian completed at least a bachelor’s degree           44%
+        Average household annual income                                 $90,001 – $100,000
+        Perceived income percentile                                             46
+
+        Parent’s Gender
+        Woman                                                                  60%
+        Man                                                                    37%
+        Other                                                                   3%
+
+        Parent’s Race
+        White                                                                  72%
+        Black/African-American                                                 15%
+        Latino/a/x                                                              6%
+        Other race/ethnicity                                                    7%
+
+        Child Demographics
+        Oldest child attends public school                                     79%
+        Number of children                                             𝑀 = 2.25, 𝑆𝐷 = 1.14
+        Average age of oldest child (age 5–17)                         𝑀 = 11.76, 𝑆𝐷 = 3.76
+        Gender of oldest child (age 5–17):
+          Girl                                                                 52%
+          Boy                                                                  47%
+          Other                                                                 1%
+
+          Notes: The sample comprises N=1,009 participants.
+
+
+
+
+                                                  11
+                        Table 2: Summary statistics: Pre-determined variables
+
+                                                          (1)      (2)     (3)       (4)
+                                                     Full Sample Upward Downward Difference
+Parents
+Parent is female                                          0.62         0.62         0.62           0.01
+                                                         (0.49)       (0.49)       (0.49)         (0.03)
+Parent’s education                                        4.19         4.16         4.21           0.05
+                                                         (1.34)       (1.35)       (1.32)         (0.09)
+Parent completed at least a bachelor’s degree             0.52         0.53         0.52          -0.00
+                                                         (0.50)       (0.50)       (0.50)         (0.03)
+Income (cat.)                                             9.97         9.87        10.08           0.21
+                                                         (6.88)       (6.88)       (6.89)         (0.44)
+White                                                     0.71         0.75         0.68         -0.06**
+                                                         (0.46)       (0.44)       (0.47)         (0.03)
+Black/African-American                                    0.14         0.15         0.15           0.00
+                                                         (0.35)       (0.35)       (0.35)         (0.02)
+Latino a/x                                                0.06         0.05         0.07          0.03*
+                                                         (0.24)       (0.21)       (0.26)         (0.02)
+Other race/ethnicity                                      0.07         0.06         0.08          0.03*
+                                                         (0.26)       (0.23)       (0.28)         (0.02)
+Child
+Oldest child is a boy                                     0.53         0.54         0.51          -0.03
+                                                         (0.50)       (0.50)       (0.50)         (0.03)
+Oldest child’s age                                       11.76        11.89        11.66          -0.23
+                                                         (3.76)       (3.82)       (3.65)         (0.24)
+Number of children                                        2.25         2.31         2.19          -0.12
+                                                         (1.14)       (1.18)       (1.10)         (0.07)
+Single child                                              0.27         0.26         0.29           0.02
+                                                         (0.45)       (0.44)       (0.45)         (0.03)
+Oldest child attends public school                        0.79         0.79         0.79          -0.00
+                                                         (0.41)       (0.41)       (0.41)         (0.03)
+Other
+Survey duration                                         40.98          25.18       57.54          32.37
+                                                       (386.12)       (46.59)     (549.07)       (24.60)
+Perceived video difficulty                               1.11           1.16        1.04          -0.12
+                                                        (2.15)         (2.27)      (2.00)         (0.14)
+Number of reports seen                                   1.97           1.98        1.96          -0.02
+                                                        (1.50)         (1.46)      (1.55)         (0.10)
+N                                                       1,009           502         495            997
+    Notes: Income is a categorical variable measured in increments of 10,000 USD, ranging from 1 (0$-
+    10,000$) to 31 (300,001$ or more). Income equal to 9 refers to 80,001-90,000 USD and 10 to 90,001-100,000
+    USD annual household income. Education is coded in the following way: 1 (Did not finish high school),
+    2 (Completed high school or received GED), 3 (Completed some college but no degree), 4 (Graduated col-
+    lege with an associate degree), 5 (Graduated college with a bachelor’s degree) and 6 (Received a graduate
+    degree (MA, PhD, JD, MD). Perceived video difficulty is reported on a scale from 0 (Very easy to under-
+    stand) to 10 (Very hard to understand). Number of reports seen refers to how many reports the parent has
+    viewed from one of the organizations mentioned in the video over the past year. ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+    ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                    12
+                                           Table 3: Mean treatment effects
+
+                                                                       (1)           (2)     (3)       (4)
+                                                                  Full sample     Upward Downward Difference
+Perception of child downward mobility                                 3.60          3.07    4.15    1.08***
+                                                                     (1.71)        (1.72)  (1.52)    (0.10)
+Perception of child upward mobility                                   5.46          5.88    5.04   -0.84***
+                                                                     (1.29)        (1.07)  (1.35)    (0.08)
+Perception of downward mobility                                       5.84          5.66    6.01    0.35***
+                                                                     (1.44)        (1.51)  (1.34)    (0.09)
+Perception of upward mobility                                         5.71          5.88    5.54   -0.34***
+                                                                     (1.35)        (1.23)  (1.45)    (0.08)
+Social socioeconomic mobility (comp.)                                 3.95          4.06    3.84   -0.22***
+                                                                     (1.31)        (1.30)  (1.31)    (0.08)
+Time investment
+Return of investment (ROI) 10 minutes                                  7.17         7.42         6.91         -0.51***
+                                                                      (1.94)       (1.97)       (1.87)         (0.12)
+Return of investment (ROI) 50 minutes                                  8.46         8.71         8.20         -0.51***
+                                                                      (1.82)       (1.78)       (1.82)         (0.11)
+Monetary investment
+Return of investment (ROI) 100 USD                                     6.89         7.13          6.64        -0.49***
+                                                                      (1.99)       (1.98)        (1.97)         (0.13)
+Return of investment (ROI) 1000 USD                                    8.18         8.38          7.97        -0.41***
+                                                                      (1.85)       (1.84)        (1.84)         (0.12)
+Willingness to Pay (WTP) for educ. newsletter                         13.54        14.30         12.76         -1.54**
+                                                                     (10.19)      (10.06)       (10.26)         (0.65)
+Willingness to Pay (WTP) for streaming service (placebo)               4.36         4.53          4.19          -0.34
+                                                                      (3.52)       (3.48)        (3.55)         (0.22)
+Opt-in to take questionnaire                                           0.64         0.64          0.64           0.00
+                                                                      (0.48)       (0.48)        (0.48)         (0.03)
+Duration spent on questionnaire                                       90.78        97.57         84.14       -13.43***
+                                                                     (61.80)      (72.46)       (48.18)         (4.91)
+Secondary Outcomes
+Expected income percentile of child                                   62.03        63.88         60.16        -3.72***
+                                                                     (19.20)      (18.62)       (19.62)         (1.22)
+Perceived control over child’s mobility (comp.)                        5.03         5.11          4.96         -0.15**
+                                                                      (1.18)       (1.16)        (1.19)         (0.08)
+N                                                                     1,001         502           495            997
+    Notes: Child upward mobility refers to a seven point-scale scale asking parents to express how likely they think it is
+    that their child will move up the socioeconomic ladder where 1 (Strongly Disagree) and 7 (Strongly Agree). General
+    upward mobility refers to a seven-point scale asking parents to state whether they think it is possible to move up
+    the socioeconomic ladder. Child downward mobility and general downward mobility are defined accordingly. Social
+    Socioeconomic Mobility (Day/Fiske, 2017) is a composite measure consisting out of five items on a seven point scale.
+    ROI measures are reported on a seven point scale where values above 5 indicate that the parent thinks the child will
+    do economically better than the parent (if the amount of time/money is invested) and below 5 that the child will do
+    worse than the parent (if the amount of time/money is invested) (5=equally well). WTP is measured in USD. Opt-in
+    is a binary variable that is equal to one if the survey taker opts-in and decides to take the additional questionnaire
+    to acquire an educational resource and zero otherwise. Time spent on the (additional) questionnaire is measured
+    in seconds and it is conditional on opting-in to take the additional questionnaire. Control over child’s mobility is a
+    composite measure consisting of three items on a seven point scale. For further details please consider the appendix
+    C1. ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                          13
+Table 4: Outcomes: Full sample (information on survey taker’s education non-missing)
+
+                      Beliefs (1-4)                                  Behavior (5-8)
+              (1)     (2)       (3)           (4)        (5)         (6)       (7)    (8)
+            Money Money Time                 Time       WTP         WTP     Opt-in Duration
+             ROI     ROI        ROI          ROI       news-    streaming quest.    quest.
+             100$   1000$ 10min             50min      letter   (placebo)
+Upward      0.26∗∗∗ 0.25∗∗∗ 0.29∗∗∗         0.29∗∗∗    0.17∗∗       0.12      0.00  0.27∗∗
+            (0.06)  (0.06) (0.07)           (0.06)     (0.06)      (0.06)    (0.06) (0.10)
+
+Controls       3          3         3          3         3           3            3          3
+
+Constant      0.20     0.64∗∗∗     0.10      0.40∗∗    0.37∗∗      0.33∗        0.02       -0.01
+             (0.16)    (0.15)     (0.16)     (0.15)    (0.14)      (0.15)      (0.15)      (0.23)
+𝑁             960        960       960        960       960         958         960         611
+Adj. 𝑅2      0.044      0.073     0.049      0.059     0.052       0.029       0.006       0.014
+F             6.55      10.60      7.15       8.63      9.78        5.08        1.81        1.72
+  Notes: Robust standard errors in parentheses. The sample includes all observations for which
+  the respondent’s educational information is available. The set of control variables includes in-
+  dicator variables for White, Hispanic and other races/ethnicities, number of children, indicator
+  if the survey taker is female, age of the oldest child and indicator for oldest child is a boy. Out-
+  comes are standardized using the mean and standard deviation of the control group (downward
+  mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                14
+             Table 5: Outcomes: Survey taker has bachelor’s degree or higher
+
+                    Beliefs (1-4)                                  Behavior (5-8)
+              (1)    (2)      (3)              (4)        (5)      (6)       (7)    (8)
+            Money Money Time                  Time       WTP      WTP     Opt-in Duration
+             ROI    ROI       ROI             ROI       news- streaming quest.    quest.
+             100$  1000$ 10min               50min      letter (placebo)
+Upward      0.25∗∗ 0.27∗∗ 0.26∗∗             0.31∗∗∗    -0.04    -0.03      -0.07 0.38∗
+            (0.09) (0.09) (0.09)             (0.09)     (0.09)   (0.08)    (0.09) (0.15)
+
+Controls        3          3         3          3         3            3           3            3
+
+Constant      0.29      0.61∗∗      0.14      0.41∗      0.29       0.47∗∗       -0.08        0.14
+             (0.20)     (0.19)     (0.21)     (0.19)    (0.19)      (0.18)       (0.20)      (0.34)
+𝑁             505        505        505        505       505         505          505         334
+Adj. 𝑅2      0.055      0.093      0.041      0.066     0.063       0.046        0.004       0.010
+F             4.70       8.49       3.89       6.05      7.11        5.20         1.31        1.22
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents reported having at least a bachelor’s degree. The set of control variables includes
+  indicator variables for White, Hispanic and other races/ethnicities, number of children, indica-
+  tor if the survey taker is female, age of the oldest child and indicator for oldest child is a boy.
+  Outcomes are standardized using the mean and standard deviation of the control group (down-
+  ward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+            Table 6: Outcomes: Survey taker has less than a bachelor’s degree
+
+                    Beliefs (1-4)                                      Behavior (5-8)
+              (1)    (2)      (3)              (4)        (5)          (6)        (7)    (8)
+            Money Money Time                  Time      WTP           WTP      Opt-in Duration
+             ROI    ROI       ROI             ROI      news-      streaming quest.     quest.
+             100$  1000$ 10min               50min      letter    (placebo)
+Upward      0.27∗∗ 0.24∗ 0.33∗∗∗             0.29∗∗    0.41∗∗∗      0.27∗∗       0.09   0.11
+            (0.09) (0.09) (0.09)             (0.09)    (0.09)        (0.10)     (0.10) (0.13)
+
+Controls       3          3          3          3         3            3            3           3
+
+Constant      0.07      0.70∗∗      0.09     0.45∗       0.37         0.11        0.02       -0.18
+             (0.27)     (0.23)     (0.25)    (0.22)     (0.22)       (0.24)      (0.23)      (0.30)
+𝑁             455        455        455       455        455          453         455         277
+Adj. 𝑅2      0.045      0.070      0.046     0.047      0.074        0.037       0.013       0.018
+F             3.81       5.92       3.61      3.58       6.13         2.16        1.79        1.63
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents reported an educational attainment below a bachelor’s degree. The set of control
+  variables includes indicator variables for White, Hispanic and other races/ethnicities, number
+  of children, indicator if the survey taker is female, age of the oldest child and indicator for oldest
+  child is a boy. Outcomes are standardized using the mean and standard deviation of the control
+  group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                 15
+                   Table 7: Robustness: Outcomes for full income sample
+
+                      Beliefs (1-4)                                  Behavior (5-8)
+              (1)     (2)       (3)           (4)        (5)         (6)       (7)    (8)
+            Money Money Time                 Time       WTP         WTP     Opt-in Duration
+             ROI     ROI        ROI          ROI       news-    streaming quest.    quest.
+             100$   1000$ 10min             50min      letter   (placebo)
+Upward      0.26∗∗∗ 0.25∗∗∗ 0.29∗∗∗         0.29∗∗∗    0.17∗∗       0.12      0.00  0.27∗∗
+            (0.06)  (0.06) (0.07)           (0.06)     (0.06)      (0.06)    (0.06) (0.10)
+
+Controls       3          3         3          3         3           3            3          3
+
+Constant      0.20     0.64∗∗∗     0.10      0.40∗∗    0.37∗∗      0.33∗        0.02       -0.01
+             (0.16)    (0.15)     (0.16)     (0.15)    (0.14)      (0.15)      (0.15)      (0.23)
+𝑁             960        960       960        960       960         958         960         611
+Adj. 𝑅2      0.044      0.073     0.049      0.059     0.052       0.029       0.006       0.014
+F             6.55      10.60      7.15       8.63      9.78        5.08        1.81        1.72
+  Notes: Robust standard errors in parentheses. The sample consists of all observations for which
+  annual household income information is available. The set of control variables includes indi-
+  cator variables for White, Hispanic and other races/ethnicities, number of children, indicator
+  if the survey taker is female, age of the oldest child and indicator for oldest child is a boy. Out-
+  comes are standardized using the mean and standard deviation of the control group (downward
+  mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+           Table 8: Robustness: Outcomes for above median income sample
+
+                    Beliefs (1-4)                                Behavior (5-8)
+              (1)    (2)      (3)             (4)       (5)      (6)       (7)    (8)
+            Money Money Time                 Time      WTP      WTP     Opt-in Duration
+             ROI    ROI       ROI            ROI      news- streaming quest.    quest.
+             100$  1000$ 10min              50min     letter (placebo)
+Upward      0.23∗  0.28∗∗ 0.31∗∗            0.40∗∗∗    0.12     0.03      0.02   0.24
+            (0.10) (0.09) (0.10)            (0.09)    (0.09)   (0.11)    (0.09) (0.15)
+
+Controls       3          3         3          3         3           3           3           3
+
+Constant      0.34      0.55∗∗     0.25       0.39      0.40        0.39        0.00        0.02
+             (0.22)     (0.21)    (0.23)     (0.22)    (0.20)      (0.21)      (0.21)      (0.33)
+𝑁             468        468       468        468       468         467         468         312
+Adj. 𝑅2      0.035      0.087     0.048      0.078     0.069       0.040       -0.002      0.010
+F             3.19       7.01      4.56       6.21      7.60        5.04        0.88        1.96
+  Notes: Robust standard errors in parentheses. The sample consists of observations that report
+  an annual household income higher than $70,001-80,000 which is the median income in the
+  sample. The U.S. Census Bureau reports that the median household income was $80,610 in
+  2023. The set of control variables includes indicator variables for White, Hispanic and other
+  races/ethnicities, number of children, indicator if the survey taker is female, age of the oldest
+  child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+  standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+  ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                16
+             Table 9: Robustness: Outcomes for below median income sample
+
+                      Beliefs (1-4)                                   Behavior (5-8)
+                (1)    (2)       (3)   (4)               (5)          (6)       (7)    (8)
+              Money Money Time        Time              WTP          WTP     Opt-in Duration
+               ROI    ROI       ROI    ROI             news-     streaming quest.    quest.
+               100$  1000$ 10min 50min                 letter    (placebo)
+ Upward       0.27∗∗ 0.22∗     0.27∗∗ 0.21∗            0.20∗        0.18∗      -0.00 0.32∗
+              (0.09) (0.09) (0.09) (0.09)              (0.09)       (0.08)    (0.09) (0.16)
+
+ Controls        3         3          3         3        3           3           3           3
+
+ Constant      -0.00     0.73∗∗∗    -0.04    0.41∗      0.34        0.27        0.07       -0.12
+               (0.25)    (0.22)     (0.23)   (0.20)    (0.20)      (0.20)      (0.21)      (0.32)
+ 𝑁              492        492       492      492       492         491         492         299
+ Adj. 𝑅2       0.055      0.058     0.042    0.047     0.034       0.031       0.008       0.011
+ F              4.68       5.00      4.12     4.11      3.74        3.07        1.65        0.82
+    Notes: Robust standard errors in parentheses. The sample consists of observations that report
+    an annual household income lower than $70,001-80,000 which is the median income in the
+    sample. The set of control variables includes indicator variables for White, Hispanic and other
+    races/ethnicities, number of children, indicator if the survey taker is female, age of the oldest
+    child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+    standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+    ∗∗∗ 𝑝 < 0.001
+
+
+
+
+Table 10: Chow Test: Parents with a high educational degree (bachelor’s degree or higher) vs. Parents
+with a low educational degree (less than bachelor’s degree)
+
+                          Beliefs (1-4)                              Behavior (5-8)
+                     (1)  (2)       (3)               (4)   (5)      (6)       (7)   (8)
+                   Money Money Time                  Time WTP      WTP      Opt-in Duration
+                    ROI   ROI       ROI              ROI  news- streaming quest.    quest.
+                    100$ 1000$ 10min                50min letter (placebo)
+ Chow Test p-value 0.859 0.782     0.583            0.903 0.000    0.019     0.235  0.178
+
+
+
+
+Table 11: Chow Test: Parents with a income (above median) vs. Parents with a low income (below
+median)
+
+                          Beliefs (1-4)                              Behavior (5-8)
+                     (1)  (2)       (3)               (4)   (5)      (6)       (7)   (8)
+                   Money Money Time                  Time WTP      WTP      Opt-in Duration
+                    ROI   ROI       ROI              ROI  news- streaming quest.    quest.
+                    100$ 1000$ 10min                50min letter (placebo)
+ Chow Test p-value 0.796 0.601     0.744            0.133 0.500    0.273     0.860  0.700
+
+
+
+
+                                                17
+References
+ABC News/Ipsos (2024).   American dream far from reality for most people. Ac-
+  cessed October 10, 2025. Available at:     https://abcnews.go.com/Politics/
+  american-dream-reality-people-poll/story?id=106339566#:~:text=MORE:
+  %20Americans%20divided%20on%20how,degree%20(down%2019%20points).
+
+Agostinelli, F., Doepke, M., Sorrenti, G., and Zilibotti, F. (2025). A stairway to suc-
+  cess: How parenting shapes culture and social stratification. Accessed May 25, 2025.
+  Available at: https://www.francesco-agostinelli.com/uploads/3/9/5/3/39536105/
+  adsz_apr_2025.pdf.
+
+Alesina, A., Stantcheva, S., and Teso, E. (2018). Intergenerational mobility and preferences for
+  redistribution. American Economic Review, 108(2):521–554.
+
+Almås, I., Cappelen, A. W., Sørensen, E. Ø., and Tungodden, B. (2023). Fairness across the
+  world. NBER Working Paper 31055, National Bureau of Economic Research.
+
+AP/NORC (2022).    Many adults are pessimistic about improving their standard of
+  living.  Accessed May 22, 2025. Available at: https://apnorc.org/projects/
+  many-adults-are-pessimistic-about-improving-their-standard-of-living/.
+
+Atkinson, A. B., Piketty, T., and Saez, E. (2011). Top incomes in the long run of history. Journal
+  of Economic Literature, 49(1):3–71.
+
+Attanasio, O., Boneva, T., and Rauh, C. (2022a). Parental beliefs about returns to different types
+  of investments in school children. Journal of Human Resources, 57(6):1789–1825.
+
+Attanasio, O., Cattan, S., and Meghir, C. (2022b). Early childhood development, human capital,
+  and poverty. Annual Review of Economics, 14:853–892.
+
+Attanasio, O., Cunha, F., and Jervis, P. (2019). Subjective parental beliefs: Their measurement
+  and role. Working Paper 26516, National Bureau of Economic Research.
+
+Barrera-Osorio, F., Gonzalez, K., Lagos, F., and Deming, D. J. (2020). Providing performance
+  information in education: An experimental evaluation in Colombia. Journal of Public Eco-
+  nomics, 186:104–185.
+
+Becker, G. S. (1991). A Treatise on the Family. Harvard University Press, Cambridge, MA.
+
+Becker, G. S. and Tomes, N. (1979). An equilibrium theory of the distribution of income and
+  intergenerational mobility. Journal of Political Economy, 87(6):1153–1189.
+
+                                               18
+Bergman, P., Chetty, R., DeLuca, S., Hendren, N., Katz, L. F., and Palmer, C. (2024). Creating
+  moves to opportunity: Experimental evidence on barriers to neighborhood choice. Ameri-
+  can Economic Review, 114(5):1281–1337.
+
+Boneva, T. and Rauh, C. (2018). Parental beliefs about returns to educational investments –
+  The later the better? Journal of the European Economic Association, 16(6):1669–1711.
+
+Browman, A. S., Destin, M., Carswell, K. L., and Svoboda, R. C. (2017). Perceptions of socioeco-
+  nomic mobility influence academic persistence among low socioeconomic status students.
+  Journal of Experimental Social Psychology, 72:45–52.
+
+Browman, A. S., Destin, M., and Svoboda, R. C. (2019). A belief in socioeconomic mobility pro-
+  motes the development of academically motivating identities among low-socioeconomic
+  status youth. Self and Identity, 21(1):42–60.
+
+Cappelen, A. W., Falch, R., Huang, Z., and Tungodden, B. (2025). Acceptance of inequality be-
+  tween children: Large-scale experimental evidence from China and Norway. The Economic
+  Journal, 135(667):999–1020.
+
+Chetty, R., Grusky, D., Hell, M., Hendren, N., Manduca, R., and Narang, J. (2017). The fading
+  American dream: Trends in absolute income mobility since 1940. Science, 356(6336):398–
+  406.
+
+Cunha, F., Elo, I., and Culhane, J. (2022). Maternal subjective expectations about the technol-
+  ogy of skill formation predict investments in children one year later. Journal of Econometrics,
+  231(1):3–32.
+
+Davidai, S. and Gilovich, T. (2018). How should we think about Americans’ beliefs about eco-
+  nomic mobility? Judgment and Decision Making, 13(3):297–304.
+
+Day, M. V. and Fiske, S. T. (2016). Movin’ on up? How perceptions of social mobility affect our
+ willingness to defend the system. Social Psychological and Personality Science, 8(3):267–274.
+
+Destin, M. and Williams, J. L. (2020). The connection between student identities and outcomes
+  related to academic persistence. Annual Review of Developmental Psychology, 2(1):437–460.
+
+Dizon-Ross, R. (2019). Parents’ beliefs about their children’s academic ability: Implications
+  for educational investments. American Economic Review, 109(8):2728–2765.
+
+Doepke, M. and Zilibotti, F. (2019). Love, Money, and Parenting: How Economics Explains the
+ Way We Raise Our Kids. Princeton University Press.
+
+
+                                               19
+Douglas, B. D., Ewell, P. J., and Brauer, M. (2023). Data quality in online human-subjects re-
+ search: Comparisons between MTurk, Prolific, CloudResearch, Qualtrics, and SONA. PLoS
+ ONE, 18(3):e0279720.
+
+Fiorini, M. and Keane, M. P. (2014). How the allocation of children’s time affects cognitive and
+  noncognitive development. Journal of Labor Economics, 32(4):787–836.
+
+Giannola, M. (2024). Parental investments and intra-household inequality in child human
+  capital: Evidence from a survey experiment. The Economic Journal, 134(658):671–727.
+
+Haaland, I., Roth, C., and Wohlfart, J. (2023). Designing information provision experiments.
+  Journal of Economic Literature, 61(1):3–40.
+
+Hernandez, I. A., Silverman, D. M., and Destin, M. (2025). Education-related resource hoard-
+  ing in the face of downward socioeconomic mobility. Social Psychology of Education (R &
+  R).
+
+Hernandez, I. A., Silverman, D. M., Rosario, R. J., and Destin, M. (2023). Concern about experi-
+  encing downward socioeconomic mobility generates precarious types of motivation among
+  students of color. Social Psychology of Education, 26:761–792.
+
+Higgins, E. T. (2012). Regulatory focus theory. In Van Lange, P. A. M., Kruglanski, A. W., and
+  Higgins, E. T., editors, Handbook of Theories of Social Psychology, volume 1, pages 483–504.
+  SAGE Publications.
+
+Hines, C. T., Padilla, C. M., and Ryan, R. M. (2020). The effect of birth weight on child develop-
+  ment prior to school entry. Child Development, 91(3):724–732.
+
+Hsin, A. and Felfe, C. (2014). When does time matter? Maternal employment, children’s time
+  with parents, and child development. Demography, 51(5):1867–1894.
+
+Kalil, A., Ryan, R., and Corey, M. (2012). Diverging destinies: Maternal education and the
+  developmental gradient in time with children. Demography, 49(4):1361–1383.
+
+Kiessling, L. (2021). How do parents perceive the returns to parenting styles and neighbor-
+  hoods? European Economic Review, 139:103906.
+
+Kim, E. (2023). Entertaining beliefs in economic mobility. American Journal of Political Science,
+  67(1):39–54.
+
+Kohn, M. L. (1969). Class and Conformity: A Study in Values. Dorsey Press.
+
+
+                                               20
+Lareau, A. (2003). Unequal Childhoods: Class, Race, and Family Life. University of California
+  Press.
+
+Lynd, R. S. and Lynd, H. M. (1929). Middletown: A Study in Modern American Culture. Harcourt,
+  Brace and Company.
+
+Martin, A., Ryan, R. M., and Brooks-Gunn, J. (2010). When fathers’ supportiveness matters
+ most: Maternal and paternal parenting and children’s school readiness. Journal of Family
+ Psychology, 24(2):145–155.
+
+Mountjoy, J. (2024). Marginal returns to public universities. Working Paper 32296, National
+ Bureau of Economic Research. NBER Working Paper.
+
+Peer, E., Brandimarte, L., Samat, S., and Acquisti, A. (2017). Beyond the Turk: Alternative plat-
+  forms for crowdsourcing behavioral research. Journal of Experimental Social Psychology,
+  70:153–163.
+
+Price, J. and Kalil, A. (2019). The effect of mother-child reading time on children’s reading skills:
+  Evidence from natural within-family variation. Child Development, 90(6):e688–e702.
+
+Ramey, G. and Ramey, V. A. (2009). The rug rat race. Working Paper 15284, National Bureau of
+  Economic Research. NBER Working Paper.
+
+Reeves, R. V. (2017). Dream Hoarders: How the American Upper Middle Class Is Leaving Every-
+  one Else in the Dust, Why That Is a Problem, and What to Do About It. Brookings Institution
+  Press, Washington, DC.
+
+Rury, D. and Kalil, A. (2025). Grades vs. test scores as signals for parent investment decisions.
+  Working paper.
+
+Shen, L. and Hirshman, S. D. (2023). As wages increase, do people work more or less? A wage
+  frame effect. Management Science, 69(8):4721–4732.
+
+Sides, J. (2016). Stories or science? Facts, frames, and policy attitudes. American Politics
+  Research, 44(3):387–414.
+
+Silverman, D. M., Hernandez, I. A., Schneider, M., and Destin, M. (2024). Economic mobil-
+   ity and parents’ opportunity hoarding. Proceedings of the National Academy of Sciences,
+   121(37):e2407230121.
+
+
+
+
+                                                 21
+Stantcheva, S. (2024). Perceptions, mindsets and beliefs shaping policy views. 2024
+  Economica-Coase Lecture, December 10, 2024. Accessed October 10, 2025. Available
+  at:   https://socialeconomicslab.org/wp-content/uploads/2025/01/Stantcheva_
+  Economica_Coase_Lecture.pdf.
+
+Sussman, A. B. and Olivola, C. Y. (2011). Axe the tax: Taxes are disliked more than equivalent
+  costs. Journal of Marketing Research, 48(S1):S91–S101.
+
+Sussman, A. B. and White, S. M. (2018). Negative responses to taxes: Causes and mitigation.
+  Policy Insights from the Behavioral and Brain Sciences, 5(2):224–231.
+
+Todd, P. E. and Wolpin, K. I. (2007). The production of cognitive achievement in children:
+  Home, school, and racial test score gaps. Journal of Human Capital, 1(1):91–136.
+
+Torry, H. (2025).    Consumer sentiment tanks in April on recession fears. The
+  Wall Street Journal.    Accessed May 19, 2025. Available at: https://www.wsj.
+  com/livecoverage/stock-market-trump-tariffs-trade-war-04-11-25/card/
+  consumer-sentiment-tanks-in-april-on-recession-fears-zPCqlvnxjQZIIJWhMVEy?
+  mod=article_inline.
+
+U.S. Bureau of Labor Statistics (2025).  Civilian unemployment rate.  Accessed
+  May 25, 2025. Available at: https://www.bls.gov/charts/employment-situation/
+  civilian-unemployment-rate.htm.
+
+Weininger, E. B. and Lareau, A. (2009). Paradoxical pathways: An ethnographic extension of
+ Kohn’s findings on class and childrearing. Journal of Marriage and Family, 71(3):680–695.
+
+Wen, F. and Witteveen, D. (2021). Does perceived social mobility shape attitudes toward gov-
+ ernment and family educational investment? Social Science Research, 98:Article 102579.
+
+WSJ/NORC (2025). WSJ/NORC Poll July 2025. Accessed October 10, 2025. Available at: https:
+ //prod-i.a.dj.com/public/resources/documents/WSJNORCJuly2025.pdf.
+
+
+
+
+                                             22
+A    Appendix – Methods
+
+A1    Research Design and Treatment Variation
+Research Design and Treatment Variation. This experiment was approved by the Institu-
+tional Review Board of a PI’s university. All participants provided explicit consent at the begin-
+ning of the survey and were compensated for their time. Data collection for the present study
+was conducted concurrently with data collection for a separate research project. That study
+focuses on how manipulating parents’ beliefs about socioeconomic mobility affects their atti-
+tudes toward redistributive policies and the likelihood of engaging in “opportunity-hoarding”
+behaviors (Silverman et al., 2024).
+
+Treatment Design. We introduced an exogenous manipulation of parental perceptions of
+socioeconomic mobility by randomly assigning parents to either an upward mobility condi-
+tion or a downward mobility condition. Our goal was to present information in a manner
+that was both intuitive and salient to parents, linking general societal trends in economic mo-
+bility with data specifically relevant to their children’s birth cohort – the basis on which par-
+ticipants were recruited. Drawing on real-world statistics from the U.S. Census Bureau and
+the Brookings Institution, participants received information on trends indicating that more
+than 78 million Americans will experience upward (or downward) mobility and that half of
+all children born between 2005 and 2017 will eventually earn more (or less) than their par-
+ents. These trends were framed as enabling children to move up – or down – the economic
+ladder. To reduce demand effects, the information was embedded in a cover story within the
+online survey. Participants were told that the government releases public reports that are cur-
+rently underutilized and that the survey aimed to gather feedback on how to improve these
+reports for broader distribution. At the end of the survey, parents were asked to suggest ways
+to enhance the accessibility of these reports, which helped mask the true purpose of the ex-
+perimental manipulation. The information was delivered through short videos embedded in
+the survey platform. Each video included visual, textual, and audio components to maximize
+participant engagement. Illustrative images from the upward mobility condition are included
+in Appendix C2.
+
+An overview of the survey flow is provided below.
+
+
+
+
+                                               23
+                                            Subject Pool
+
+
+
+                                             Screener
+
+
+
+                                     Parent & Child Information
+
+
+
+                                            Cover Story
+
+
+                                       Information Provision:
+                                       Downward or Upward
+                                         Economic Mobility
+
+
+                                Comprehension & Manipulation Check
+
+
+                                       Parental Investment:
+                                    Time & Monetary Investment
+                                       • Behavioral   • Belief
+
+
+                                          Demographics
+
+
+
+                                             Feedback
+
+
+                                   Figure A1.1: Survey Flow
+
+
+Sample Characteristics Participants were recruited through Prolific Academic, an online
+platform that offers reliable and more demographically representative samples than alterna-
+tives such as Amazon Mechanical Turk (Peer et al., 2017). Data collection took place between
+August 2023 and January 2024. The study was designed to ensure representativeness across
+U.S. income quintiles, with the following distribution: 17.3% in the first quintile, 20.1% in the
+second, 18.9% in the third, 22.2% in the fourth, and 21.4% in the fifth quintile. More moth-
+ers than fathers participated in the study (59.8% women, 36.8% men, and 3.4% identifying
+as other). The sample was also more educated than the general U.S. parent population, with
+52.4% of respondents holding a college degree or higher. This elevated education level is typi-
+cal for studies conducted on Prolific Academic (Douglas et al., 2023).
+Children were well balanced across genders (46.7% boys, 51.8% girls, and 1.0% other). The
+average age of the focal child was 12 years, reflecting the recruitment criteria, which targeted
+
+
+                                                24
+parents of children aged 5 to 17 years. A majority of children (79%) attended public schools.
+Regarding family structure, 27.3% of parents had one child, 39.6% had two children, 20.4% had
+three children, and 12.7% had four or more children.
+
+
+A2    Measures
+Manipulation Check. After viewing the treatment video and before being presented with
+the outcome measures, parents were asked about their beliefs in socioeconomic mobility. We
+measured these beliefs as the extent to which parents thought that people’s social status can
+change in society (adapted from Day and Fiske (2016)). Items 1 through 4 were rated on a scale
+from 1 (strongly disagree) to 7 (strongly agree), while item 5 used a scale from 1 (very hard) to
+7 (very easy). The items were:
+   1. “There are a lot of opportunities for people to move up the social ladder.”
+   2. “It is common for people who are motivated enough to go ‘from rags to riches’.”
+   3. “If you are born rich, it is very unlikely you will ever be poor.” (reverse-scored)
+   4. “If you are born poor, it is very unlikely you will ever be rich.” (reverse-scored)
+   5. “These days, how easy is it to change one’s social class?”
+In addition to these items, parents were also asked more directly about their beliefs in upward
+and downward mobility. Two items captured perceptions of upward mobility: one assessed
+general agreement with the idea that it is possible to move up the socioeconomic ladder, and
+the other asked whether their own child is likely to move up. Two analogous items assessed
+downward mobility. All were rated from 1 (strongly disagree) to 7 (strongly agree).
+
+Main Outcomes. This study examines how parents’ perceptions of economic mobility affect
+both their beliefs about the returns to investing in their children and their actual investment
+behavior. We focus on two types of parental investment – time and money – both of which are
+consistent predictors of children’s outcomes (e.g., Attanasio et al., 2022b; Fiorini and Keane,
+2014; Price and Kalil, 2019). For each type of investment, we measure: (1) Beliefs about returns
+on investment (ROI) and (2) Investment behavior. Each is measured separately for both mon-
+etary and time investments.
+
+Belief in Returns to Investment – Monetary
+Parents were asked how much better or worse they expected their child to do economically
+compared to themselves, given specific monetary investments. The key prompt was:
+
+      “If I invest about $100 in each thing for [child name] listed above, I expect [child
+
+                                               25
+      name] to do _____ (0 = much worse economically than me, 10 = much better eco-
+      nomically than me; 5 = about the same economically as me).”
+
+An identical question was asked using a $1000 investment rather than $100.
+The “things” included:
+    • Tutoring or test preparation materials
+    • Books or educational materials
+    • Sports teams and equipment
+Belief in Returns to Investment – Time
+Parents were also asked:
+
+      “If I invest about 10 minutes a day in the activities above with [child name] in the
+      future, I expect [child name] to do _____ (0 = much worse economically than me,
+      10 = much better economically than me; 5 = about the same economically as me).”
+
+A parallel question was asked referring to 50 minutes per day instead of 10.
+Activities included:
+    • Helping with homework
+    • Helping with homework
+    • Spending time and talking with the child
+Investment Behavior – Time and Money
+To measure time investment behavior, parents were offered access to a website with evidence-
+based parenting resources. To access the site, they were asked to complete a short question-
+naire about their family and child. We measured: (1) Whether they opted in to complete the
+survey and (2) The amount of time they spent completing it.
+     To measure monetary investment behavior, we asked parents how much they would be
+willing to pay for two types of products: (1) An educational parenting newsletter and (2) A
+non-educational streaming video service (used as a placebo control).
+     Parents were asked whether they would pay decreasing amounts and to report the high-
+est price they would be willing to pay. This allows us to isolate effects specific to educational
+investments. Please see Appendix C1 for the complete survey instrument. For comparability,
+each outcome is standardized into a z-score by subtracting the control group mean and divid-
+ing by the control group’s standard deviation.
+
+Parental background. We examine heterogeneity in parents’ economic mobility beliefs
+and investment behaviors across two background dimensions: (1) Parental education and (2)
+Household income.
+
+                                               26
+    Parental education is based on the highest degree attained by the responding parent. House-
+hold income reflects total annual earnings. The analysis includes subgroup splits: (1) Parents
+with a bachelor’s degree or higher vs. those with less education, (2) Families above vs. below
+the sample median in annual household income, (3) Top income quintile vs. all others, (4)
+Bottom income quintile vs. all others.
+    The survey items are:
+     • Income: “Last year, what was your family’s annual household income from all sources?”
+       Measured on a scale of 1 ($0-$10,000) to 31 ($300,001 or more) in $ 10,000 increments.
+     • Own education: “Please mark the highest level of education that you have received:”
+       Response options include: 1 (Did not finish high school), 2 (Completed high school or
+       received GED), 3 (Completed some college), 4 (Graduated college), and 5 (Received a
+       graduate degree (M.A., Ph.D., J.D.,M.D.))
+
+
+A3     Empirical Strategy
+Randomization. The study examines how parents’ perceptions of economic mobility influ-
+ence their beliefs and behaviors related to time and financial investments in their children.
+We recruited parents on Prolific Academic and exogenously vary to which mobility condition
+parents were assigned. Half of the parents were randomly assigned to an upward mobility
+condition and the other half were assigned to a downward mobility condition.
+
+Main average effects. To examine the effects of the experimental manipulation, we first
+compared mean values for all manipulation check and main outcomes by treatment group.
+We then estimated the treatment effects using OLS regressions:
+
+                               𝑌𝑖 = 𝛽 1 + 𝛽 2 Upward𝑖 + X′i 𝜇 + 𝜖𝑖
+
+We define 𝑌𝑖 as the outcome of interest in either the domain of parental monetary or time in-
+vestment. Specifically, we look at beliefs about return on investment for a high and low mone-
+tary/time investment, as well as a stylized behavioral investment measure of monetary/time
+investment. For more details on the outcomes, please consider Appendix A.
+
+Given the exogenous randomized assignment of parents to a mobility condition, the causal
+effect of the mobility condition on the specified outcomes can be calculated from raw dif-
+ferences between the upward and downward treatment. To account for imbalances in pre-
+determined characteristics between parents assigned to the upward and downward mobility
+
+
+                                               27
+condition, and to improve precision, we include a vector of control variables 𝑋𝑖 . Controls
+consist of the parent’s gender, number of children, and indicators for White, Asian, and Black
+race/ethnicity. 𝜖𝑖 is an idiosyncratic error term.
+
+Inference and Tests. Robust standard errors are used in all specified regressions. To adjust
+for multiple hypothesis testing, we calculate adjusted p-values to control the family-wise error
+rate (FWER) using the package rwolf2 in Stata.
+
+
+A4    Pilot Study
+Prior to the main data collection, we conducted a pilot study with 101 parents to test four ex-
+perimental conditions: passive control (control), downward mobility, upward mobility, and
+general mobility (which described both upward and downward socioeconomic movement).
+The pilot served two purposes: to validate that the experimental manipulations effectively
+conveyed their intended information, and to identify an appropriate comparison group for
+the upward mobility condition. Given power considerations, we needed to limit our study to
+two conditions. Specifically, including more than two conditions would have reduced statis-
+tical power due to recruitment constraints. The limited number of eligible parents in the first-
+and fifth-income quintiles on Prolific Academic restricted total recruitment to approximately
+1,000 parents, with an estimated maximum of 200 from each quintile.
+
+This constraint, combined with our goal of recruiting equal proportions across income quin-
+tiles to ensure representative insight and to examine variation by income and education levels,
+led us to choose a single comparison condition. Analysis of parents’ beliefs about economic
+mobility in our pilot experiment revealed similar responses between the passive control and
+downward mobility conditions in terms of general mobility, as well as the perceived possibil-
+ity of upward and downward mobility in society. Based on these pilot results, we selected the
+downward mobility condition as our comparison group for two reasons. First, using a passive
+control group leaves open the possibility that any observed effects of the upward mobility con-
+dition are driven by exposure to the video itself or by general reflection on economic trends
+and children’s futures. Second, comparing upward and downward mobility conditions allows
+for stronger inferences about the underlying psychological mechanisms at play.
+
+
+
+
+                                              28
+B    Appendix – Tables and Figures
+
+B1   Robustness
+
+                                        Table B1.1: Multiple Hypotheses Testing
+
+                                     Beliefs (1-4)                                        Behavior (5-8)
+                        (1)         (2)         (3)            (4)             (5)         (6)       (7)     (8)
+                      Money       Money        Time           Time            WTP         WTP      Opt-in Duration
+                        ROI         ROI         ROI            ROI           news-     streaming quest.    quest.
+                       100$        1000$      10min          50min           letter    (placebo)
+      p-values       0.0001∗∗∗   0.0001∗∗∗ 0.0000∗∗∗        0.0000∗∗∗       0.0080∗∗     0.0626    0.9528 0.0093∗∗
+
+      RW p-values     0.0010∗∗    0.0010∗∗     0.0010∗∗     0.0010∗∗        0.0330∗        0.1229       0.9510     0.0330∗
+        Notes: RW p-values refer to the Romano Wolf False Discovery Rate (FDR) corrected p-values.
+        ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                   Table B1.2: Robustness – Survey duration outliers dropped: Full sample
+
+                                Beliefs (1-4)                                        Behavior (5-8)
+                        (1)     (2)       (3)           (4)          (5)             (6)       (7)    (8)
+                      Money Money Time                 Time         WTP             WTP     Opt-in Duration
+                       ROI     ROI        ROI          ROI         news-        streaming quest.    quest.
+                       100$   1000$ 10min             50min        letter       (placebo)
+         Upward       0.28∗∗∗ 0.28∗∗∗ 0.30∗∗∗         0.33∗∗∗      0.20∗∗          0.15∗      -0.02  0.19
+                      (0.07)  (0.07) (0.07)           (0.07)       (0.07)          (0.07)    (0.07) (0.10)
+
+         Controls        3          3          3            3           3              3            3              3
+
+         Constant       0.16     0.67∗∗∗      0.07        0.45∗∗   0.31∗           0.20          0.08            -0.08
+                       (0.18)    (0.16)      (0.17)       (0.16)   (0.15)         (0.16)        (0.16)           (0.23)
+         𝑁              865        865        865          865      865            864           865              563
+         Adj. 𝑅2       0.053      0.078      0.055        0.062    0.046          0.025         0.006            0.000
+         F              7.49      10.15       7.11         8.43     7.95           4.13          1.87             1.03
+           Notes: Robust standard errors in parentheses. The sample includes all observations for which
+           the respondent’s educational information is available, excluding those with survey durations
+           in the top or bottom 5%. The set of control variables includes indicator variables for White, His-
+           panic and other races/ethnicities, number of children, indicator if the survey taker is female, age
+           of the oldest child and indicator for oldest child is a boy. Outcomes are standardized using the
+           mean and standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05,
+           ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                            29
+Table B1.3: Robustness – Survey duration outliers dropped: Parents have at least a bache-
+lor’s degree
+
+                      Beliefs (1-4)                               Behavior (5-8)
+               (1)    (2)       (3)            (4)       (5)      (6)       (7)    (8)
+             Money Money Time                 Time      WTP      WTP     Opt-in Duration
+              ROI    ROI        ROI           ROI      news- streaming quest.    quest.
+              100$  1000$ 10min              50min     letter (placebo)
+ Upward      0.28∗∗ 0.31∗∗∗ 0.25∗∗           0.37∗∗∗    0.01     0.01      -0.08  0.25
+             (0.09) (0.09) (0.10)            (0.09)    (0.09)   (0.09)    (0.09) (0.15)
+
+ Controls       3          3         3         3         3           3            3          3
+
+ Constant      0.23     0.58∗∗      0.08      0.40      0.24        0.36        0.05        0.28
+              (0.22)    (0.21)     (0.23)    (0.21)    (0.21)      (0.20)      (0.21)      (0.34)
+ 𝑁             443       443        443       443       443         443         443         306
+ Adj. 𝑅2      0.061     0.089      0.038     0.063     0.053       0.038       0.003       -0.007
+ F             4.69      7.08       3.40      5.16      5.59        3.99        1.20        0.80
+   Notes: Robust standard errors in parentheses. The sample includes all observations in which
+   respondents reported having at least a bachelor’s degree, excluding those with survey durations
+   in the top or bottom 5%. The set of control variables includes indicator variables for White,
+   Hispanic and other races/ethnicities, number of children, indicator if the survey taker is female,
+   age of the oldest child and indicator for oldest child is a boy. Outcomes are standardized using
+   the mean and standard deviation of the control group (downward mobility condition). ∗ 𝑝 <
+   0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+Table B1.4: Robustness – Survey duration outliers dropped: Parents have less than a bache-
+lor’s degree
+
+                      Beliefs (1-4)                                   Behavior (5-8)
+               (1)     (2)      (3)           (4)         (5)         (6)        (7)    (8)
+             Money Money Time                Time       WTP          WTP      Opt-in Duration
+              ROI     ROI       ROI          ROI       news-     streaming quest.     quest.
+              100$   1000$ 10min            50min       letter   (placebo)
+ Upward      0.31∗∗∗ 0.28∗∗ 0.36∗∗∗         0.32∗∗∗    0.40∗∗∗     0.28∗∗       0.04   0.08
+             (0.09)  (0.09) (0.10)          (0.09)     (0.09)       (0.10)     (0.10) (0.12)
+
+ Controls       3         3          3         3         3            3           3           3
+
+ Constant      0.08     0.83∗∗∗     0.13     0.60∗      0.32        0.00        -0.02      -0.46
+              (0.29)    (0.25)     (0.27)    (0.23)    (0.23)      (0.26)       (0.25)     (0.27)
+ 𝑁             422        422       422       422       422         421          422        257
+ Adj. 𝑅2      0.056      0.088     0.057     0.061     0.067       0.038        0.018      0.013
+ F             4.49       7.15      3.84      4.46      5.33        2.09         2.04       1.46
+   Notes: Robust standard errors in parentheses. The sample includes all observations in which re-
+   spondents reported an educational attainment below a bachelor’s degree, excluding those with
+   survey durations in the top or bottom 5%. The set of control variables includes indicator variables
+   for White, Hispanic and other races/ethnicities, number of children, indicator if the survey taker
+   is female, age of the oldest child and indicator for oldest child is a boy. Outcomes are standard-
+   ized using the mean and standard deviation of the control group (downward mobility condition).
+   ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                30
+Table B1.5: Robustness – Attention checks passed: Full sample (information on survey
+taker’s education)
+
+                       Beliefs (1-4)                                 Behavior (5-8)
+               (1)     (2)       (3)          (4)        (5)         (6)       (7)    (8)
+             Money Money Time                Time       WTP         WTP     Opt-in Duration
+              ROI     ROI        ROI         ROI       news-    streaming quest.    quest.
+              100$   1000$ 10min            50min      letter   (placebo)
+ Upward      0.27∗∗∗ 0.27∗∗∗ 0.28∗∗∗        0.29∗∗∗    0.18∗∗       0.12      0.02  0.28∗∗
+             (0.07)  (0.06) (0.07)          (0.06)     (0.06)      (0.07)    (0.07) (0.11)
+
+ Controls       3         3          3         3         3           3           3           3
+
+ Constant      0.22     0.63∗∗∗     0.13     0.48∗∗    0.33∗       0.33∗        0.00       0.06
+              (0.17)    (0.16)     (0.16)    (0.15)    (0.15)      (0.15)      (0.15)     (0.24)
+ 𝑁             921        921       921       921       921         919         921        587
+ Adj. 𝑅2      0.043      0.072     0.051     0.062     0.049       0.027       0.006      0.017
+ F             6.17       9.89      7.05      8.59      8.92        4.65        1.85       1.86
+   Notes: Robust standard errors in parentheses. The sample includes all observations in which
+   respondents passed both attention checks and information on educational attainment is not
+   missing. The set of control variables includes indicator variables for White, Hispanic and other
+   races/ethnicities, number of children, indicator if the survey taker is female, age of the oldest
+   child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+   standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+   ∗∗∗ 𝑝 < 0.001
+
+
+
+
+Table B1.6: Robustness – Attention checks passed: Survey taker has bachelor’s degree or
+higher
+
+                     Beliefs (1-4)                                   Behavior (5-8)
+               (1)    (2)      (3)    (4)               (5)          (6)       (7)    (8)
+             Money Money Time       Time               WTP          WTP     Opt-in Duration
+              ROI    ROI       ROI   ROI              news-     streaming quest.    quest.
+              100$  1000$ 10min 50min                 letter    (placebo)
+ Upward      0.25∗∗ 0.26∗∗    0.23∗ 0.29∗∗            -0.05        -0.04      -0.05 0.38∗
+             (0.09) (0.09) (0.09) (0.09)              (0.09)       (0.09)    (0.09) (0.16)
+
+ Controls       3          3         3         3         3           3           3           3
+
+ Constant      0.39     0.65∗∗      0.27     0.49∗      0.25      0.43∗        -0.07       0.22
+              (0.20)    (0.20)     (0.21)    (0.20)    (0.20)     (0.19)       (0.20)     (0.35)
+ 𝑁             484       484        484       484       484        484          484        321
+ Adj. 𝑅2      0.058     0.096      0.047     0.069     0.058      0.043        0.006      0.012
+ F             4.58      8.19       3.87      5.84      6.26       4.77         1.49       1.26
+   Notes: Robust standard errors in parentheses. The sample includes all observations in which
+   respondents passed both attention checks and reported educational attainment of having at
+   least a bachelor’s degree. The set of control variables includes indicator variables for White,
+   Hispanic and other races/ethnicities, number of children, indicator if the survey taker is female,
+   age of the oldest child and indicator for oldest child is a boy. Outcomes are standardized using
+   the mean and standard deviation of the control group (downward mobility condition). ∗ 𝑝 <
+   0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                31
+Table B1.7: Robustness – Attention checks passed: Survey taker has less than a bachelor’s
+degree
+
+                     Beliefs (1-4)                                     Behavior (5-8)
+               (1)    (2)      (3)             (4)         (5)         (6)        (7)    (8)
+             Money Money Time                 Time       WTP          WTP      Opt-in Duration
+              ROI    ROI       ROI            ROI       news-     streaming quest.     quest.
+              100$  1000$ 10min              50min       letter   (placebo)
+ Upward      0.31∗∗ 0.28∗∗ 0.36∗∗∗           0.30∗∗     0.44∗∗∗     0.27∗∗       0.12   0.11
+             (0.09) (0.09) (0.10)            (0.09)     (0.09)       (0.10)     (0.10) (0.13)
+
+ Controls       3          3          3         3         3            3           3           3
+
+ Constant      0.00      0.63∗      0.00      0.55∗      0.31         0.16       -0.05       -0.09
+              (0.28)     (0.25)    (0.26)     (0.22)    (0.22)       (0.26)      (0.24)      (0.31)
+ 𝑁             437        437       437        437       437          435         437         266
+ Adj. 𝑅2      0.047      0.070     0.047      0.052     0.081        0.038       0.014       0.020
+ F             3.88       5.72      3.85       3.70      6.36         2.23        1.76        1.62
+   Notes: Robust standard errors in parentheses. The sample includes all observations in which
+   respondents passed both attention checks and reported educational attainment below a bach-
+   elor’s degree. The set of control variables includes indicator variables for White, Hispanic and
+   other races/ethnicities, number of children, indicator if the survey taker is female, age of the old-
+   est child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+   standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+   ∗∗∗ 𝑝 < 0.001
+
+
+
+
+Table B1.8: Robustness – Attention checks passed: Full sample (information annual house-
+hold income is not missing)
+
+                       Beliefs (1-4)                                   Behavior (5-8)
+               (1)     (2)       (3)            (4)       (5)          (6)       (7)    (8)
+             Money Money Time                  Time      WTP          WTP     Opt-in Duration
+              ROI     ROI        ROI           ROI      news-     streaming quest.    quest.
+              100$   1000$ 10min              50min     letter    (placebo)
+ Upward      0.27∗∗∗ 0.27∗∗∗ 0.28∗∗∗          0.29∗∗∗   0.18∗∗        0.12      0.02  0.28∗∗
+             (0.07)  (0.06) (0.07)            (0.06)    (0.06)       (0.07)    (0.07) (0.11)
+
+ Controls       3          3          3         3          3           3           3           3
+
+ Constant      0.22     0.63∗∗∗      0.13     0.48∗∗    0.33∗        0.33∗        0.00        0.06
+              (0.17)    (0.16)      (0.16)    (0.15)    (0.15)       (0.15)      (0.15)      (0.24)
+ 𝑁             921        921        921       921       921          919         921         587
+ Adj. 𝑅2      0.043      0.072      0.051     0.062     0.049        0.027       0.006       0.017
+ F             6.17       9.89       7.05      8.59      8.92         4.65        1.85        1.86
+   Notes: Robust standard errors in parentheses. The sample includes all observations in which
+   respondents passed both attention checks and reported annual household income is not miss-
+   ing. The set of control variables includes indicator variables for White, Hispanic and other
+   races/ethnicities, number of children, indicator if the survey taker is female, age of the oldest
+   child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+   standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+   ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                 32
+          Table B1.9: Robustness – Attention checks passed: High income sample
+
+                     Beliefs (1-4)                              Behavior (5-8)
+               (1)    (2)      (3)           (4)       (5)      (6)       (7)    (8)
+             Money Money Time               Time      WTP      WTP     Opt-in Duration
+              ROI    ROI       ROI          ROI      news- streaming quest.    quest.
+              100$  1000$ 10min            50min     letter (placebo)
+Upward       0.24∗  0.28∗∗ 0.27∗∗          0.39∗∗∗    0.11     0.02      0.05   0.24
+             (0.10) (0.09) (0.10)          (0.09)    (0.09)   (0.11)    (0.10) (0.16)
+
+Controls        3        3         3         3         3           3           3           3
+
+Constant       0.40    0.58∗∗     0.35     0.51∗      0.41        0.39        0.04        0.14
+              (0.22)   (0.22)    (0.23)    (0.22)    (0.21)      (0.21)      (0.22)      (0.34)
+𝑁              444      444       444       444       444         443         444         296
+Adj. 𝑅2       0.033    0.089     0.052     0.083     0.067       0.040       0.001       0.016
+F              2.91     6.53      4.55      5.97      6.96        4.80        1.09        2.19
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents passed both attention checks and reported annual household income is above the
+  median. The set of control variables includes indicator variables for White, Hispanic and other
+  races/ethnicities, number of children, indicator if the survey taker is female, age of the oldest
+  child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+  standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+  ∗∗∗ 𝑝 < 0.001
+
+
+
+
+          Table B1.10: Robustness – Attention checks passed: Low income sample
+
+                      Beliefs (1-4)                                Behavior (5-8)
+               (1)     (2)      (3)  (4)               (5)         (6)       (7)    (8)
+             Money Money Time       Time              WTP         WTP     Opt-in Duration
+              ROI     ROI       ROI ROI              news-    streaming quest.    quest.
+              100$   1000$ 10min 50min               letter   (placebo)
+Upward       0.29∗∗∗ 0.25∗∗ 0.28∗∗ 0.22∗             0.23∗       0.18∗      0.01  0.32∗
+             (0.09)  (0.09) (0.09) (0.09)            (0.09)      (0.08)    (0.09) (0.16)
+
+Controls        3        3          3        3         3           3           3           3
+
+Constant      -0.01    0.69∗∗    -0.08     0.45∗      0.26        0.28       -0.01       -0.07
+              (0.25)   (0.23)    (0.23)    (0.20)    (0.21)      (0.21)      (0.22)      (0.34)
+𝑁              477      477       477       477       477         476         477         291
+Adj. 𝑅2       0.056    0.057     0.045     0.047     0.033       0.030       0.006       0.012
+F              4.71     4.75      4.53      4.06      3.52        2.92        1.44        0.83
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents passed both attention checks and reported annual household income is below the
+  median. The set of control variables includes indicator variables for White, Hispanic and other
+  races/ethnicities, number of children, indicator if the survey taker is female, age of the oldest
+  child and indicator for oldest child is a boy. Outcomes are standardized using the mean and
+  standard deviation of the control group (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01,
+  ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                              33
+             Table B1.11: Outcomes: Top 80% income sample (quintiles 2-5)
+
+                     Beliefs (1-4)                                   Behavior (5-8)
+              (1)    (2)       (3)            (4)        (5)         (6)       (7)    (8)
+            Money Money Time                 Time       WTP         WTP     Opt-in Duration
+             ROI    ROI        ROI           ROI       news-    streaming quest.    quest.
+             100$  1000$ 10min              50min      letter   (placebo)
+Upward      0.22∗∗ 0.24∗∗∗ 0.28∗∗∗          0.29∗∗∗     0.12        0.11      -0.00 0.26∗
+            (0.07) (0.07) (0.07)            (0.07)     (0.07)      (0.07)    (0.07) (0.12)
+
+Controls       3          3          3         3         3           3            3           3
+
+Constant      0.13     0.61∗∗∗     0.11      0.40∗     0.46∗∗      0.38∗       -0.06        0.03
+             (0.18)    (0.17)     (0.18)     (0.16)    (0.16)      (0.16)      (0.16)      (0.26)
+𝑁             794        794       794        794       794         792         794         508
+Adj. 𝑅2      0.035      0.066     0.042      0.054     0.049       0.026       0.007       0.003
+F             4.34       8.18      5.24       6.90      8.17        4.38        1.85        0.97
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents report an annual household income in quintiles 2 to 5. The set of control variables
+  includes indicator variables for White, Hispanic and other races/ethnicities, number of children,
+  indicator if the survey taker is female, age of the oldest child and indicator for oldest child is a
+  boy. Outcomes are standardized using the mean and standard deviation of the control group
+  (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+           Table B1.12: Outcomes: Bottom 20% income sample (first quintile)
+
+                    Beliefs (1-4)                                    Behavior (5-8)
+              (1)    (2)       (3)  (4)                 (5)          (6)       (7)    (8)
+            Money Money Time       Time                WTP          WTP     Opt-in Duration
+             ROI    ROI       ROI   ROI               news-     streaming quest.    quest.
+             100$  1000$ 10min 50min                  letter    (placebo)
+Upward      0.40∗∗  0.28      0.29 0.31∗              0.43∗∗        0.18      0.03   0.29
+            (0.15) (0.15) (0.17) (0.15)               (0.15)       (0.15)    (0.16) (0.21)
+
+Controls       3          3          3         3         3           3            3          3
+
+Constant      0.31      0.78∗      0.04       0.43     -0.24        0.04        0.19       -0.04
+             (0.39)     (0.32)    (0.42)     (0.37)    (0.36)      (0.35)      (0.40)      (0.52)
+𝑁             166        166       166        166       166         166         166         103
+Adj. 𝑅2      0.078      0.092     0.034      0.044     0.063       0.019       -0.020      0.126
+F             3.13       3.56      1.77       1.93      2.98        1.81        0.55        2.06
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents report an annual household income in quintile 1. The set of control variables in-
+  cludes indicator variables for White, Hispanic and other races/ethnicities, number of children,
+  indicator if the survey taker is female, age of the oldest child and indicator for oldest child is a
+  boy. Outcomes are standardized using the mean and standard deviation of the control group
+  (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                34
+            Table B1.13: Outcomes: Top 20% income sample (fifth quintile)
+
+                    Beliefs (1-4)                                    Behavior (5-8)
+              (1)    (2)      (3)  (4)                  (5)          (6)       (7)    (8)
+            Money Money Time      Time                 WTP          WTP     Opt-in Duration
+             ROI    ROI       ROI ROI                 news-     streaming quest.    quest.
+             100$  1000$ 10min 50min                  letter    (placebo)
+Upward      0.47∗∗ 0.38∗∗ 0.46∗∗ 0.42∗∗                0.28         0.18      0.11   0.32
+            (0.16) (0.14) (0.16) (0.14)               (0.15)       (0.14)    (0.15) (0.27)
+
+Controls       3          3          3         3         3           3            3          3
+
+Constant      0.07      0.65∗      0.26       0.29     0.80∗       0.63∗        0.07        0.10
+             (0.37)     (0.33)    (0.38)     (0.34)    (0.31)      (0.28)      (0.33)      (0.63)
+𝑁             193        193       193        193       193         193         193         132
+Adj. 𝑅2      0.071      0.113     0.097      0.108     0.053       0.059       -0.030      -0.015
+F             3.04       4.45      4.47       4.54      3.60        4.45        0.34        1.48
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents report an annual household income in quintile 5. The set of control variables in-
+  cludes indicator variables for White, Hispanic and other races/ethnicities, number of children,
+  indicator if the survey taker is female, age of the oldest child and indicator for oldest child is a
+  boy. Outcomes are standardized using the mean and standard deviation of the control group
+  (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+           Table B1.14: Outcomes: Bottom 80% income sample (quintiles 1-4)
+
+                    Beliefs (1-4)                                    Behavior (5-8)
+              (1)    (2)      (3)             (4)        (5)         (6)       (7)    (8)
+            Money Money Time                 Time       WTP         WTP     Opt-in Duration
+             ROI    ROI       ROI            ROI       news-    streaming quest.    quest.
+             100$  1000$ 10min              50min      letter   (placebo)
+Upward      0.21∗∗ 0.22∗∗ 0.24∗∗∗           0.26∗∗∗    0.14∗        0.10      -0.02 0.27∗
+            (0.07) (0.07) (0.07)            (0.07)     (0.07)      (0.07)    (0.07) (0.12)
+
+Controls       3          3          3         3         3           3            3           3
+
+Constant      0.25     0.63∗∗∗     0.11      0.43∗∗     0.25        0.24        0.03       -0.08
+             (0.18)    (0.17)     (0.18)     (0.16)    (0.16)      (0.17)      (0.17)      (0.23)
+𝑁             767        767       767        767       767         765         767         479
+Adj. 𝑅2      0.036      0.056     0.049      0.045     0.049       0.023       0.009       0.013
+F             4.72       6.53      6.24       5.43      7.44        3.41        1.99        1.18
+  Notes: Robust standard errors in parentheses. The sample includes all observations in which
+  respondents report an annual household income in quintiles 1 to 4. The set of control variables
+  includes indicator variables for White, Hispanic and other races/ethnicities, number of children,
+  indicator if the survey taker is female, age of the oldest child and indicator for oldest child is a
+  boy. Outcomes are standardized using the mean and standard deviation of the control group
+  (downward mobility condition). ∗ 𝑝 < 0.05, ∗∗ 𝑝 < 0.01, ∗∗∗ 𝑝 < 0.001
+
+
+
+
+                                                35
+C     Appendix – Survey Measures
+
+C1     Survey Measures
+Child Mobility
+1. Downward Mobility (DM)
+Scale: 1 (strongly disagree) to 7 (strongly agree).
+     • “I think it’s possible that [child’s name] will move down the socioeconomic ladder.”
+2. Upward Mobility (UM)
+Scale: 1 (strongly disagree) to 7 (strongly agree).
+     • “I think it’s possible that [child’s name] will move up the socioeconomic ladder.”
+General Perceptions of Mobility
+1. General Downward Mobility (GDM)
+Scale: 1 (strongly disagree) to 7 (strongly agree).
+     • “I think it’s possible to move down the socioeconomic ladder.”
+2. General Upward Mobility (GUM)
+Scale: 1 (strongly disagree) to 7 (strongly agree).
+     • “I think it’s possible to move up the socioeconomic ladder.”
+Socio-Economic Mobility Beliefs (SSM)
+We measured parents’ socioeconomic mobility beliefs as the extent to which they believed
+people’s SES could change in society (adapted from Day and Fiske (2016)).
+
+“Many of the questions on the following pages will refer to your ‘socioeconomic status’. Your
+socioeconomic status (SES) is made up of many factors, including your income, level of edu-
+cation, and other economic circumstances.”
+Scale: 1 (strongly disagree) to 7 (strongly agree).
+    Items:
+     • There are a lot of opportunities for people to move up the social ladder.
+     • It is common for people who are motivated enough to go “from rags to riches”.
+     • If you are born rich, it is very unlikely you will ever be poor. (reverse-scored)
+     • If you are born poor, it is very unlikely you will ever be rich. (reverse-scored)
+     • These days, how easy is it to change one’s social class?
+Time and Money Return of Investment (ROI) Scenarios
+
+
+                                                 36
+Scale: 0 (much worse economically than me) to 10 (much better economically than me) where
+5 (about the same economically as me).
+1. Time Investment ROI: 10 Minutes
+“If I invest about 10 minutes a day in the activities above with [child’s name] in the future, I
+expect [child’s name] to do                                .”
+2. Time Investment ROI: 50 Minutes
+“If I invest about 50 minutes a day in the activities above with [child’s name] in the future, I
+expect [child’s name] to do                                .”
+3. Money Investment ROI: $100
+“If I invest about $100 a year in the activities above with [child’s name] in the future, I expect
+[child’s name] to do                                .”
+4. Money Investment ROI: $1000
+“If I invest about $1000 a year in the activities above with [child’s name] in the future, I expect
+[child’s name] to do                                .”
+
+Behavioral Money Investment Measure: Willingness to Pay (WTP)
+1. Newsletter Subscription (educational good)
+“Experts at an education research firm are developing a monthly newsletter to help parents
+better understand what children need to learn to succeed in school and be financially secure
+in adulthood. The newsletter will have advice for parents and tools to help children grow aca-
+demically. The experts are conducting market research and need help pricing this product.
+Would you purchase a year-long subscription to this newsletter at these rates?”
+    • $24 ($2 per issue)
+    • $12 ($1 per issue)
+    • $6 ($0.50 per issue)
+    • Enter a price
+2. Streaming Service (placebo good)
+“A new streaming video company is offering access to recent movie hits and original television
+programs for children and families that are not available on other streaming services. They
+plan to charge a discounted price to expand their market share. Experts are conducting some
+market research and are interested in knowing how much to discount this product. Would
+you purchase this service if the price was:”
+    • $8 per month
+    • $6 per month
+
+
+                                                37
+    • $4 per month
+    • Enter a price
+Behavioral Time Investment Measure: Opt-in Educational Newsletter
+“Education experts have developed a free parenting resource guide based on evidence from
+research studies. This guide provides advice and tips to help your child succeed in school
+and be financially secure in adulthood. To access this free website, you need to answer a few
+questions about your child and your family. Most parents complete these questions in about
+three minutes. Would you like to answer these questions and access this free website?”
+    • Yes
+    • No
+Conditional on opt-in: “You chose to spend about three minutes answering a few questions
+about your child and your family. When you complete these questions, you will receive a link
+to a free evidence-based parenting resource guide. Let’s begin:”
+    • Additional questionnaire: [Survey questions 1–12]
+Additional Information: Educational Resource
+
+
+  “ParentData is a guide for parents, people who want to be parents, or anyone who likes
+  to do their research before making a decision.
+  With new articles and Q&As every week—along with over three years’ worth of writing—
+  ParentData aims to give you the numbers and decision-making tools you need to feel
+  more empowered as you make your own pregnancy, parenting, and health choices.
+  The links below contain helpful resources on parenting. Clicking on the links will open a
+  new page so you won’t lose your progress on this survey. Make sure to submit the survey
+  so that your payment can be processed quickly.
+  Written by a leading expert who has authored three books on pregnancy and parenting:
+  Expecting Better, Cribsheet, and The Family Firm.
+  ParentData is a newsletter. You can sign up as a free or paid subscriber at https:
+  //parentdata.org/subscribe. As a free subscriber, you’ll receive newsletters on Mon-
+  days and Thursdays with the latest articles, plus a newsletter with reader stories on Tues-
+  days.”
+
+Demographic Information
+
+School Type
+
+
+                                              38
+“What type of school does [child’s name] attend?”
+    • Private school, Catholic
+    • Private school, religious but not Catholic
+    • Private school, not religious
+    • Public school
+    • My child is home-schooled
+Education
+“Please mark the highest level of education that you have received:”
+    • Did not finish high school
+    • Completed high school or GED
+    • Completed some college but no degree
+    • Graduated college with an associate degree
+    • Graduated college with a bachelor’s degree
+    • Received a graduate degree (e.g., M.A., Ph.D., J.D., M.D.)
+Annual Household Income
+“Last year, what was your family’s annual household income from all sources?”
+Select the appropriate range (increments of $10,000):
+    • $0–$10,000
+    • $10,001–$20,000
+    • $20,001–$30,000
+    • $30,001–$40,000
+    • ...
+    • $290,001–$300,000
+    • $300,001 and more
+Gender
+“What is your gender?”
+    • Woman
+    • Man
+    • Non-binary
+    • Not listed (please specify): ______
+    • Prefer not to answer
+
+
+                                              39
+Race/Ethnicity
+“What is your race/ethnicity?”
+    • American Indian, Native American, or Alaska Native
+    • Asian or Asian American
+    • Black, African American, or African
+    • Latino, Latina, or Latinx
+    • Middle Eastern or Arab
+    • Native Hawaiian or Other Pacific Islander
+    • White or Caucasian
+    • Multiracial (please specify): ______
+Self Efficacy/Control Over Child’s Mobility
+“How much do you agree or disagree with the following statements?”
+Scale: 1 (strongly disagree) to 7 (strongly agree).
+    Items:
+    • I can influence where [child’s name] ends up on the socioeconomic ladder.
+    • I know what it takes for me to help [child’s name] succeed economically.
+    • I have little control over how [child’s name] ends up socioeconomically. (reverse-scored)
+Child’s Income Percentile Expectation
+“What income percentile do you expect [child’s name] to be in when they grow up?”
+    • 0-100
+
+
+
+
+                                              40
+C2   Screenshots
+
+
+
+
+               Today, Americans live in an era
+                  of upward economic
+                        mobility.
+
+
+
+
+                   The poorest families are at the bottom of
+                   the ladder and the richest families are on
+                               top of the ladder.
+
+
+
+
+          Figure C2.1: Screenshots of the Upward Mobility Video Treatment
+
+
+
+
+                                        41
+            A child who experiences upward economic
+            mobility moves up the ladder from where
+                      they start in childhood.
+
+
+
+
+             Many Americans are expected to move up
+              the economic ladder during their lifetime.
+
+
+
+
+                                                    Source: U.S. Census Bureau
+
+
+
+
+             Many Americans are expected to move up
+              the economic ladder during their lifetime.
+
+
+   More than 78 million
+Americans, from all economic
+backgrounds, are expected to
+experience upward economic
+         mobility.
+
+
+
+
+                                                    Source: U.S. Census Bureau
+
+
+
+
+                                42
+        Many Americans are expected to move up
+         the economic ladder during their lifetime.
+
+
+
+
+   And people’s likelihood of moving up the
+     ladder has increased in recent years.  Source: U.S. Census Bureau
+
+
+
+
+It is estimated that half of all children born between
+  2005 and 2017 will earn a higher income than their
+  parents when they grow up, moving up the ladder.
+
+
+
+
+                                                      Source: U.S. Census Bureau
+
+
+
+
+     We now want to ask you what
+     you think about economic
+        mobility in the U.S.
+
+
+
+
+                               43
+
